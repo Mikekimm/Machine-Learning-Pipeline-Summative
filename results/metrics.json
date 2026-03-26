@@ -1,0 +1,131 @@
+{
+  "accuracy": 0.48533333333333334,
+  "confusion_matrix": [
+    [
+      76,
+      16,
+      33,
+      52,
+      34,
+      39
+    ],
+    [
+      15,
+      164,
+      8,
+      9,
+      12,
+      42
+    ],
+    [
+      19,
+      3,
+      132,
+      31,
+      46,
+      19
+    ],
+    [
+      32,
+      7,
+      34,
+      141,
+      28,
+      8
+    ],
+    [
+      37,
+      19,
+      69,
+      33,
+      75,
+      17
+    ],
+    [
+      43,
+      15,
+      20,
+      10,
+      22,
+      140
+    ]
+  ],
+  "classification_report": {
+    "buildings": {
+      "precision": 0.34234234234234234,
+      "recall": 0.304,
+      "f1-score": 0.3220338983050847,
+      "support": 250.0
+    },
+    "forest": {
+      "precision": 0.7321428571428571,
+      "recall": 0.656,
+      "f1-score": 0.6919831223628692,
+      "support": 250.0
+    },
+    "glacier": {
+      "precision": 0.44594594594594594,
+      "recall": 0.528,
+      "f1-score": 0.4835164835164835,
+      "support": 250.0
+    },
+    "mountain": {
+      "precision": 0.5108695652173914,
+      "recall": 0.564,
+      "f1-score": 0.5361216730038023,
+      "support": 250.0
+    },
+    "sea": {
+      "precision": 0.3456221198156682,
+      "recall": 0.3,
+      "f1-score": 0.32119914346895073,
+      "support": 250.0
+    },
+    "street": {
+      "precision": 0.5283018867924528,
+      "recall": 0.56,
+      "f1-score": 0.5436893203883495,
+      "support": 250.0
+    },
+    "accuracy": 0.48533333333333334,
+    "macro avg": {
+      "precision": 0.4842041195427762,
+      "recall": 0.48533333333333334,
+      "f1-score": 0.48309060684092325,
+      "support": 1500.0
+    },
+    "weighted avg": {
+      "precision": 0.48420411954277637,
+      "recall": 0.48533333333333334,
+      "f1-score": 0.4830906068409233,
+      "support": 1500.0
+    }
+  },
+  "classes": [
+    "buildings",
+    "forest",
+    "glacier",
+    "mountain",
+    "sea",
+    "street"
+  ],
+  "train_shape": [
+    3000,
+    3072
+  ],
+  "test_shape": [
+    1500,
+    3072
+  ],
+  "config": {
+    "max_train_per_class": 500,
+    "max_test_per_class": 250,
+    "image_size": [
+      32,
+      32
+    ],
+    "max_iter": 60,
+    "random_state": 42
+  },
+  "sample_probability_mean": 0.5756546258926392
+}

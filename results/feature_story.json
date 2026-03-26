@@ -1,0 +1,4202 @@
+[
+  {
+    "class": "buildings",
+    "brightness": 0.5763378143310547,
+    "blue_ratio": 1.0941979885101318,
+    "green_ratio": 0.9846898317337036,
+    "texture_strength": 0.1088387668132782
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.49270355701446533,
+    "blue_ratio": 1.0497961044311523,
+    "green_ratio": 1.089782953262329,
+    "texture_strength": 0.10597604513168335
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4343290328979492,
+    "blue_ratio": 0.9415868520736694,
+    "green_ratio": 0.9930188059806824,
+    "texture_strength": 0.1129065603017807
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4918115735054016,
+    "blue_ratio": 1.245220422744751,
+    "green_ratio": 0.9596868753433228,
+    "texture_strength": 0.1363675594329834
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3725021183490753,
+    "blue_ratio": 1.1102421283721924,
+    "green_ratio": 0.9731745719909668,
+    "texture_strength": 0.12119352072477341
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.42999258637428284,
+    "blue_ratio": 0.8977694511413574,
+    "green_ratio": 1.0824400186538696,
+    "texture_strength": 0.07665310800075531
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5320127606391907,
+    "blue_ratio": 1.1070934534072876,
+    "green_ratio": 1.0153224468231201,
+    "texture_strength": 0.1318860799074173
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4708859920501709,
+    "blue_ratio": 0.9614928960800171,
+    "green_ratio": 1.0090376138687134,
+    "texture_strength": 0.13971269130706787
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4816735088825226,
+    "blue_ratio": 1.1458475589752197,
+    "green_ratio": 0.9995620250701904,
+    "texture_strength": 0.12771067023277283
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.40364712476730347,
+    "blue_ratio": 0.9820035099983215,
+    "green_ratio": 0.9941263198852539,
+    "texture_strength": 0.1120791882276535
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.31044793128967285,
+    "blue_ratio": 1.044280767440796,
+    "green_ratio": 1.0035260915756226,
+    "texture_strength": 0.10182072967290878
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5436440110206604,
+    "blue_ratio": 0.8728177547454834,
+    "green_ratio": 1.006638765335083,
+    "texture_strength": 0.13924680650234222
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4767089784145355,
+    "blue_ratio": 1.141020655632019,
+    "green_ratio": 1.0056334733963013,
+    "texture_strength": 0.11538054794073105
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4558197855949402,
+    "blue_ratio": 0.9554213285446167,
+    "green_ratio": 1.0090094804763794,
+    "texture_strength": 0.1512715220451355
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.20195217430591583,
+    "blue_ratio": 0.9174911975860596,
+    "green_ratio": 1.0173749923706055,
+    "texture_strength": 0.11247017234563828
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.44105103611946106,
+    "blue_ratio": 0.8890331387519836,
+    "green_ratio": 0.9978922009468079,
+    "texture_strength": 0.1550300270318985
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4005543291568756,
+    "blue_ratio": 1.009070873260498,
+    "green_ratio": 0.9980949759483337,
+    "texture_strength": 0.15218448638916016
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5172995328903198,
+    "blue_ratio": 1.0326998233795166,
+    "green_ratio": 0.967266857624054,
+    "texture_strength": 0.24695411324501038
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5006803870201111,
+    "blue_ratio": 1.0425477027893066,
+    "green_ratio": 0.9958855509757996,
+    "texture_strength": 0.1287270486354828
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.2413867861032486,
+    "blue_ratio": 0.6427876949310303,
+    "green_ratio": 1.0334967374801636,
+    "texture_strength": 0.1189873218536377
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5738245844841003,
+    "blue_ratio": 0.9513750076293945,
+    "green_ratio": 0.9634113907814026,
+    "texture_strength": 0.10565800964832306
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5755435228347778,
+    "blue_ratio": 1.0621553659439087,
+    "green_ratio": 1.0040411949157715,
+    "texture_strength": 0.08633869886398315
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.39950981736183167,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.10318530350923538
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.1677839756011963,
+    "blue_ratio": 0.3476693034172058,
+    "green_ratio": 0.9132081866264343,
+    "texture_strength": 0.07482557743787766
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5433408617973328,
+    "blue_ratio": 0.9926050901412964,
+    "green_ratio": 1.001552939414978,
+    "texture_strength": 0.14805249869823456
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5042684674263,
+    "blue_ratio": 0.9072765111923218,
+    "green_ratio": 0.9910474419593811,
+    "texture_strength": 0.14449825882911682
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4220336079597473,
+    "blue_ratio": 1.1493500471115112,
+    "green_ratio": 1.0094743967056274,
+    "texture_strength": 0.1144033819437027
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3994383215904236,
+    "blue_ratio": 0.9698725342750549,
+    "green_ratio": 0.9931967854499817,
+    "texture_strength": 0.08571461588144302
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.44143208861351013,
+    "blue_ratio": 1.14286208152771,
+    "green_ratio": 1.0165854692459106,
+    "texture_strength": 0.08619216084480286
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.39912909269332886,
+    "blue_ratio": 0.8979679942131042,
+    "green_ratio": 1.0135185718536377,
+    "texture_strength": 0.08157388120889664
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.26105013489723206,
+    "blue_ratio": 1.0037531852722168,
+    "green_ratio": 1.0065112113952637,
+    "texture_strength": 0.1002596840262413
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.40298905968666077,
+    "blue_ratio": 1.0782606601715088,
+    "green_ratio": 1.0123659372329712,
+    "texture_strength": 0.1317097246646881
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.6780500411987305,
+    "blue_ratio": 1.003301739692688,
+    "green_ratio": 0.9978005290031433,
+    "texture_strength": 0.12647707760334015
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5316080451011658,
+    "blue_ratio": 0.8622324466705322,
+    "green_ratio": 1.0918588638305664,
+    "texture_strength": 0.10500148683786392
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.43865305185317993,
+    "blue_ratio": 1.0343996286392212,
+    "green_ratio": 0.989618718624115,
+    "texture_strength": 0.08766210079193115
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.40575310587882996,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1488046646118164
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3680954575538635,
+    "blue_ratio": 0.8907495141029358,
+    "green_ratio": 0.987959086894989,
+    "texture_strength": 0.1900997906923294
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3784109354019165,
+    "blue_ratio": 1.1586122512817383,
+    "green_ratio": 1.0038541555404663,
+    "texture_strength": 0.1229526549577713
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3297988772392273,
+    "blue_ratio": 1.0238677263259888,
+    "green_ratio": 1.0087835788726807,
+    "texture_strength": 0.13909606635570526
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.298110693693161,
+    "blue_ratio": 0.9953892230987549,
+    "green_ratio": 1.036324381828308,
+    "texture_strength": 0.14135801792144775
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5387095212936401,
+    "blue_ratio": 1.0007530450820923,
+    "green_ratio": 0.9995338320732117,
+    "texture_strength": 0.1300378143787384
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.34236940741539,
+    "blue_ratio": 0.9786855578422546,
+    "green_ratio": 1.0039876699447632,
+    "texture_strength": 0.14273621141910553
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.470958411693573,
+    "blue_ratio": 0.8688192963600159,
+    "green_ratio": 1.0209802389144897,
+    "texture_strength": 0.15131528675556183
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3866884410381317,
+    "blue_ratio": 1.2614401578903198,
+    "green_ratio": 0.9836381673812866,
+    "texture_strength": 0.13440385460853577
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4877396821975708,
+    "blue_ratio": 1.1370689868927002,
+    "green_ratio": 1.0250388383865356,
+    "texture_strength": 0.10157692432403564
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.6376825571060181,
+    "blue_ratio": 0.9655134081840515,
+    "green_ratio": 1.0002076625823975,
+    "texture_strength": 0.10668378323316574
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.49608609080314636,
+    "blue_ratio": 0.9855718016624451,
+    "green_ratio": 1.0061333179473877,
+    "texture_strength": 0.13106323778629303
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4532316029071808,
+    "blue_ratio": 1.0749436616897583,
+    "green_ratio": 0.9998683333396912,
+    "texture_strength": 0.13576161861419678
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.45465269684791565,
+    "blue_ratio": 1.1216641664505005,
+    "green_ratio": 0.9927799105644226,
+    "texture_strength": 0.10566870123147964
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.1502438336610794,
+    "blue_ratio": 1.146318793296814,
+    "green_ratio": 0.9820637702941895,
+    "texture_strength": 0.08083242923021317
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5750184655189514,
+    "blue_ratio": 0.9182355999946594,
+    "green_ratio": 1.016776204109192,
+    "texture_strength": 0.2216590791940689
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.22464671730995178,
+    "blue_ratio": 0.9871334433555603,
+    "green_ratio": 0.9999445676803589,
+    "texture_strength": 0.0918031558394432
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4670793116092682,
+    "blue_ratio": 1.1170265674591064,
+    "green_ratio": 1.0331963300704956,
+    "texture_strength": 0.09588293731212616
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4055233299732208,
+    "blue_ratio": 1.1357985734939575,
+    "green_ratio": 1.0011497735977173,
+    "texture_strength": 0.1639948934316635
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4609043300151825,
+    "blue_ratio": 1.0549259185791016,
+    "green_ratio": 1.0367459058761597,
+    "texture_strength": 0.08304349333047867
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.41457438468933105,
+    "blue_ratio": 1.1182831525802612,
+    "green_ratio": 0.9956498742103577,
+    "texture_strength": 0.1488335132598877
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.40419983863830566,
+    "blue_ratio": 1.036947250366211,
+    "green_ratio": 1.0050958395004272,
+    "texture_strength": 0.16381432116031647
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5810920000076294,
+    "blue_ratio": 0.9851731657981873,
+    "green_ratio": 1.0020496845245361,
+    "texture_strength": 0.16319280862808228
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.686066746711731,
+    "blue_ratio": 1.0502007007598877,
+    "green_ratio": 0.9624760746955872,
+    "texture_strength": 0.1401902437210083
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5152796506881714,
+    "blue_ratio": 0.9742840528488159,
+    "green_ratio": 1.0065416097640991,
+    "texture_strength": 0.1431213617324829
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.511222779750824,
+    "blue_ratio": 0.9470393061637878,
+    "green_ratio": 1.0430517196655273,
+    "texture_strength": 0.07084760069847107
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4723246693611145,
+    "blue_ratio": 0.9671973586082458,
+    "green_ratio": 1.00435471534729,
+    "texture_strength": 0.09952211380004883
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5980573892593384,
+    "blue_ratio": 1.0051755905151367,
+    "green_ratio": 1.0206063985824585,
+    "texture_strength": 0.0938524529337883
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5193212628364563,
+    "blue_ratio": 0.9635767936706543,
+    "green_ratio": 1.0345401763916016,
+    "texture_strength": 0.1656285673379898
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5463739633560181,
+    "blue_ratio": 0.9746306538581848,
+    "green_ratio": 0.9996132850646973,
+    "texture_strength": 0.06150534376502037
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4580381214618683,
+    "blue_ratio": 0.9445860981941223,
+    "green_ratio": 0.9723613262176514,
+    "texture_strength": 0.11387462913990021
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.40356793999671936,
+    "blue_ratio": 1.047272801399231,
+    "green_ratio": 1.0001740455627441,
+    "texture_strength": 0.12037815153598785
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4683277904987335,
+    "blue_ratio": 1.0562270879745483,
+    "green_ratio": 1.1982382535934448,
+    "texture_strength": 0.07756348699331284
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3659476339817047,
+    "blue_ratio": 1.0588396787643433,
+    "green_ratio": 1.0318450927734375,
+    "texture_strength": 0.14450150728225708
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5329063534736633,
+    "blue_ratio": 0.995810329914093,
+    "green_ratio": 1.0067390203475952,
+    "texture_strength": 0.11284042149782181
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.48233985900878906,
+    "blue_ratio": 0.9281902313232422,
+    "green_ratio": 1.033108115196228,
+    "texture_strength": 0.10764764249324799
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.48005324602127075,
+    "blue_ratio": 0.9787557125091553,
+    "green_ratio": 1.0160847902297974,
+    "texture_strength": 0.1395554542541504
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4645695984363556,
+    "blue_ratio": 0.9383891820907593,
+    "green_ratio": 1.0360658168792725,
+    "texture_strength": 0.12266573309898376
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.41930148005485535,
+    "blue_ratio": 0.9401943683624268,
+    "green_ratio": 1.0076675415039062,
+    "texture_strength": 0.18253417313098907
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5975889563560486,
+    "blue_ratio": 1.005837082862854,
+    "green_ratio": 0.9751370549201965,
+    "texture_strength": 0.1440923511981964
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.42984962463378906,
+    "blue_ratio": 0.8876597285270691,
+    "green_ratio": 0.9428126811981201,
+    "texture_strength": 0.12300582230091095
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4830023944377899,
+    "blue_ratio": 0.9503825306892395,
+    "green_ratio": 1.0286661386489868,
+    "texture_strength": 0.10207880288362503
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.373261958360672,
+    "blue_ratio": 0.9016000628471375,
+    "green_ratio": 0.9923264384269714,
+    "texture_strength": 0.1073899045586586
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.6257924437522888,
+    "blue_ratio": 1.022756576538086,
+    "green_ratio": 1.0132158994674683,
+    "texture_strength": 0.10129065066576004
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.2950192093849182,
+    "blue_ratio": 0.7609454989433289,
+    "green_ratio": 1.040479302406311,
+    "texture_strength": 0.1783386468887329
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5447939038276672,
+    "blue_ratio": 1.0933483839035034,
+    "green_ratio": 1.0185627937316895,
+    "texture_strength": 0.06994567066431046
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4603739082813263,
+    "blue_ratio": 0.9185811877250671,
+    "green_ratio": 1.014629602432251,
+    "texture_strength": 0.19271190464496613
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5715181827545166,
+    "blue_ratio": 1.0253922939300537,
+    "green_ratio": 1.003914475440979,
+    "texture_strength": 0.12807214260101318
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5044194459915161,
+    "blue_ratio": 1.163528561592102,
+    "green_ratio": 0.9902838468551636,
+    "texture_strength": 0.06077231466770172
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.6290313601493835,
+    "blue_ratio": 0.8901179432868958,
+    "green_ratio": 1.0251659154891968,
+    "texture_strength": 0.17618688941001892
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.44494643807411194,
+    "blue_ratio": 0.912618100643158,
+    "green_ratio": 1.0062042474746704,
+    "texture_strength": 0.15500733256340027
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.24515707790851593,
+    "blue_ratio": 0.9686533808708191,
+    "green_ratio": 1.0193012952804565,
+    "texture_strength": 0.07607214152812958
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5111739635467529,
+    "blue_ratio": 1.1746171712875366,
+    "green_ratio": 0.9739694595336914,
+    "texture_strength": 0.08094200491905212
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3199314475059509,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.10104847699403763
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.3663986027240753,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1585521548986435
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4605660140514374,
+    "blue_ratio": 0.9883630275726318,
+    "green_ratio": 1.0193201303482056,
+    "texture_strength": 0.09586769342422485
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.36024561524391174,
+    "blue_ratio": 0.9273224472999573,
+    "green_ratio": 1.0257678031921387,
+    "texture_strength": 0.1672528237104416
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4088532030582428,
+    "blue_ratio": 1.0432910919189453,
+    "green_ratio": 1.005727767944336,
+    "texture_strength": 0.12404327094554901
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5464329719543457,
+    "blue_ratio": 0.993598997592926,
+    "green_ratio": 0.9817318916320801,
+    "texture_strength": 0.1767425835132599
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.5373305082321167,
+    "blue_ratio": 0.9437718391418457,
+    "green_ratio": 1.0358141660690308,
+    "texture_strength": 0.1339399218559265
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.48947322368621826,
+    "blue_ratio": 0.9769386649131775,
+    "green_ratio": 1.0081232786178589,
+    "texture_strength": 0.08933565020561218
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.38948696851730347,
+    "blue_ratio": 1.006269931793213,
+    "green_ratio": 1.0019779205322266,
+    "texture_strength": 0.04696318507194519
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.4256705045700073,
+    "blue_ratio": 1.0819013118743896,
+    "green_ratio": 1.0491889715194702,
+    "texture_strength": 0.15132664144039154
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.44382980465888977,
+    "blue_ratio": 1.0177829265594482,
+    "green_ratio": 1.000829815864563,
+    "texture_strength": 0.12756508588790894
+  },
+  {
+    "class": "buildings",
+    "brightness": 0.39715203642845154,
+    "blue_ratio": 0.9510427117347717,
+    "green_ratio": 1.0145115852355957,
+    "texture_strength": 0.12440703809261322
+  },
+  {
+    "class": "forest",
+    "brightness": 0.38736945390701294,
+    "blue_ratio": 0.9273462891578674,
+    "green_ratio": 1.0643632411956787,
+    "texture_strength": 0.06750895082950592
+  },
+  {
+    "class": "forest",
+    "brightness": 0.45575565099716187,
+    "blue_ratio": 0.9503922462463379,
+    "green_ratio": 1.0564029216766357,
+    "texture_strength": 0.18764525651931763
+  },
+  {
+    "class": "forest",
+    "brightness": 0.34765562415122986,
+    "blue_ratio": 0.7689207792282104,
+    "green_ratio": 1.1710915565490723,
+    "texture_strength": 0.23789425194263458
+  },
+  {
+    "class": "forest",
+    "brightness": 0.25190526247024536,
+    "blue_ratio": 0.8006536960601807,
+    "green_ratio": 1.1015962362289429,
+    "texture_strength": 0.14873559772968292
+  },
+  {
+    "class": "forest",
+    "brightness": 0.23558133840560913,
+    "blue_ratio": 0.9516540765762329,
+    "green_ratio": 1.0431723594665527,
+    "texture_strength": 0.1909281462430954
+  },
+  {
+    "class": "forest",
+    "brightness": 0.36593231558799744,
+    "blue_ratio": 0.914638340473175,
+    "green_ratio": 1.2298951148986816,
+    "texture_strength": 0.16563956439495087
+  },
+  {
+    "class": "forest",
+    "brightness": 0.22409428656101227,
+    "blue_ratio": 0.4941767454147339,
+    "green_ratio": 1.7352666854858398,
+    "texture_strength": 0.10591315478086472
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3314647972583771,
+    "blue_ratio": 1.0683884620666504,
+    "green_ratio": 1.1390886306762695,
+    "texture_strength": 0.071761853992939
+  },
+  {
+    "class": "forest",
+    "brightness": 0.23457925021648407,
+    "blue_ratio": 0.5414440035820007,
+    "green_ratio": 1.3040515184402466,
+    "texture_strength": 0.1386839896440506
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3769703507423401,
+    "blue_ratio": 0.8431673049926758,
+    "green_ratio": 1.0316429138183594,
+    "texture_strength": 0.16930502653121948
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2198248654603958,
+    "blue_ratio": 0.5866961479187012,
+    "green_ratio": 0.8541799783706665,
+    "texture_strength": 0.16094738245010376
+  },
+  {
+    "class": "forest",
+    "brightness": 0.6636061072349548,
+    "blue_ratio": 0.981709897518158,
+    "green_ratio": 1.0070199966430664,
+    "texture_strength": 0.1985735148191452
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2490192949771881,
+    "blue_ratio": 0.8613253831863403,
+    "green_ratio": 1.051870584487915,
+    "texture_strength": 0.03669597581028938
+  },
+  {
+    "class": "forest",
+    "brightness": 0.502690315246582,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.16785326600074768
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2695280611515045,
+    "blue_ratio": 0.36080634593963623,
+    "green_ratio": 1.8209792375564575,
+    "texture_strength": 0.09971988201141357
+  },
+  {
+    "class": "forest",
+    "brightness": 0.48493126034736633,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.125870481133461
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3258565664291382,
+    "blue_ratio": 0.9399188756942749,
+    "green_ratio": 1.0307986736297607,
+    "texture_strength": 0.07385393977165222
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3180890679359436,
+    "blue_ratio": 0.504187285900116,
+    "green_ratio": 1.2974658012390137,
+    "texture_strength": 0.11208891123533249
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2727169096469879,
+    "blue_ratio": 0.9817469120025635,
+    "green_ratio": 1.0140554904937744,
+    "texture_strength": 0.13516345620155334
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2832784354686737,
+    "blue_ratio": 0.25754815340042114,
+    "green_ratio": 1.6939207315444946,
+    "texture_strength": 0.09924589842557907
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3994514048099518,
+    "blue_ratio": 0.6349782943725586,
+    "green_ratio": 1.048317551612854,
+    "texture_strength": 0.18641261756420135
+  },
+  {
+    "class": "forest",
+    "brightness": 0.43074607849121094,
+    "blue_ratio": 0.8742499351501465,
+    "green_ratio": 1.1000728607177734,
+    "texture_strength": 0.1411353051662445
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2916124165058136,
+    "blue_ratio": 0.3843611478805542,
+    "green_ratio": 1.6724321842193604,
+    "texture_strength": 0.10525372624397278
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2899407744407654,
+    "blue_ratio": 0.6309129595756531,
+    "green_ratio": 1.2256017923355103,
+    "texture_strength": 0.1630440205335617
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2816699743270874,
+    "blue_ratio": 0.6684836745262146,
+    "green_ratio": 1.1555525064468384,
+    "texture_strength": 0.18365170061588287
+  },
+  {
+    "class": "forest",
+    "brightness": 0.17273826897144318,
+    "blue_ratio": 0.9879910945892334,
+    "green_ratio": 1.0054501295089722,
+    "texture_strength": 0.16608957946300507
+  },
+  {
+    "class": "forest",
+    "brightness": 0.22898507118225098,
+    "blue_ratio": 0.23517967760562897,
+    "green_ratio": 0.3706605136394501,
+    "texture_strength": 0.08576356619596481
+  },
+  {
+    "class": "forest",
+    "brightness": 0.24051393568515778,
+    "blue_ratio": 0.7947470545768738,
+    "green_ratio": 1.1774835586547852,
+    "texture_strength": 0.12402479350566864
+  },
+  {
+    "class": "forest",
+    "brightness": 0.38314759731292725,
+    "blue_ratio": 0.7859641909599304,
+    "green_ratio": 1.0448986291885376,
+    "texture_strength": 0.2222633808851242
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2217138409614563,
+    "blue_ratio": 0.7034849524497986,
+    "green_ratio": 1.1001975536346436,
+    "texture_strength": 0.13290570676326752
+  },
+  {
+    "class": "forest",
+    "brightness": 0.28431692719459534,
+    "blue_ratio": 0.5859106779098511,
+    "green_ratio": 1.464827299118042,
+    "texture_strength": 0.14589622616767883
+  },
+  {
+    "class": "forest",
+    "brightness": 0.29703235626220703,
+    "blue_ratio": 0.8795841336250305,
+    "green_ratio": 0.9951704144477844,
+    "texture_strength": 0.1623518466949463
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3011377453804016,
+    "blue_ratio": 0.5628737211227417,
+    "green_ratio": 1.3211487531661987,
+    "texture_strength": 0.1637604981660843
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2831246256828308,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1336718052625656
+  },
+  {
+    "class": "forest",
+    "brightness": 0.24888364970684052,
+    "blue_ratio": 0.8466882705688477,
+    "green_ratio": 1.1011064052581787,
+    "texture_strength": 0.12379331141710281
+  },
+  {
+    "class": "forest",
+    "brightness": 0.339788556098938,
+    "blue_ratio": 0.4921015799045563,
+    "green_ratio": 1.4167840480804443,
+    "texture_strength": 0.10928162187337875
+  },
+  {
+    "class": "forest",
+    "brightness": 0.29818570613861084,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.20525501668453217
+  },
+  {
+    "class": "forest",
+    "brightness": 0.23804253339767456,
+    "blue_ratio": 0.7664018273353577,
+    "green_ratio": 1.1992164850234985,
+    "texture_strength": 0.15313439071178436
+  },
+  {
+    "class": "forest",
+    "brightness": 0.4422382414340973,
+    "blue_ratio": 0.8865707516670227,
+    "green_ratio": 1.0636142492294312,
+    "texture_strength": 0.08456465601921082
+  },
+  {
+    "class": "forest",
+    "brightness": 0.16804948449134827,
+    "blue_ratio": 0.7072581052780151,
+    "green_ratio": 1.0857412815093994,
+    "texture_strength": 0.07643978297710419
+  },
+  {
+    "class": "forest",
+    "brightness": 0.28517475724220276,
+    "blue_ratio": 0.7490045428276062,
+    "green_ratio": 1.1804195642471313,
+    "texture_strength": 0.1511622667312622
+  },
+  {
+    "class": "forest",
+    "brightness": 0.4044334590435028,
+    "blue_ratio": 0.8987349271774292,
+    "green_ratio": 1.0741232633590698,
+    "texture_strength": 0.07488556206226349
+  },
+  {
+    "class": "forest",
+    "brightness": 0.39842599630355835,
+    "blue_ratio": 0.9149268865585327,
+    "green_ratio": 1.102932095527649,
+    "texture_strength": 0.08427742123603821
+  },
+  {
+    "class": "forest",
+    "brightness": 0.28624388575553894,
+    "blue_ratio": 0.48422950506210327,
+    "green_ratio": 1.243548035621643,
+    "texture_strength": 0.15118464827537537
+  },
+  {
+    "class": "forest",
+    "brightness": 0.419393390417099,
+    "blue_ratio": 0.8755113482475281,
+    "green_ratio": 1.0844314098358154,
+    "texture_strength": 0.15532958507537842
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2714725434780121,
+    "blue_ratio": 0.7789872288703918,
+    "green_ratio": 1.2332600355148315,
+    "texture_strength": 0.13239054381847382
+  },
+  {
+    "class": "forest",
+    "brightness": 0.22052696347236633,
+    "blue_ratio": 0.7620953917503357,
+    "green_ratio": 1.1576045751571655,
+    "texture_strength": 0.11703170835971832
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2050027996301651,
+    "blue_ratio": 0.6442888975143433,
+    "green_ratio": 1.2938318252563477,
+    "texture_strength": 0.148773193359375
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3540160357952118,
+    "blue_ratio": 0.7822044491767883,
+    "green_ratio": 1.0701864957809448,
+    "texture_strength": 0.19689348340034485
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3592594861984253,
+    "blue_ratio": 0.9387075304985046,
+    "green_ratio": 1.0287327766418457,
+    "texture_strength": 0.09986026585102081
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3247944712638855,
+    "blue_ratio": 0.5693174004554749,
+    "green_ratio": 1.1729819774627686,
+    "texture_strength": 0.1514773964881897
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2376774400472641,
+    "blue_ratio": 0.7063866257667542,
+    "green_ratio": 1.4100621938705444,
+    "texture_strength": 0.15350204706192017
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3745978772640228,
+    "blue_ratio": 0.81501305103302,
+    "green_ratio": 1.1291366815567017,
+    "texture_strength": 0.16002406179904938
+  },
+  {
+    "class": "forest",
+    "brightness": 0.31053921580314636,
+    "blue_ratio": 0.7777445316314697,
+    "green_ratio": 1.090222954750061,
+    "texture_strength": 0.1195206269621849
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3678216338157654,
+    "blue_ratio": 0.4646413326263428,
+    "green_ratio": 1.2694441080093384,
+    "texture_strength": 0.13635070621967316
+  },
+  {
+    "class": "forest",
+    "brightness": 0.41513925790786743,
+    "blue_ratio": 0.8954470157623291,
+    "green_ratio": 1.2918334007263184,
+    "texture_strength": 0.14416174590587616
+  },
+  {
+    "class": "forest",
+    "brightness": 0.21674133837223053,
+    "blue_ratio": 0.8009382486343384,
+    "green_ratio": 1.444421410560608,
+    "texture_strength": 0.11870396137237549
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3126981854438782,
+    "blue_ratio": 0.9833745360374451,
+    "green_ratio": 0.9984905123710632,
+    "texture_strength": 0.18874040246009827
+  },
+  {
+    "class": "forest",
+    "brightness": 0.5033937096595764,
+    "blue_ratio": 0.906426191329956,
+    "green_ratio": 1.045654296875,
+    "texture_strength": 0.15606196224689484
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2785271108150482,
+    "blue_ratio": 0.8928865790367126,
+    "green_ratio": 1.0532869100570679,
+    "texture_strength": 0.1474728286266327
+  },
+  {
+    "class": "forest",
+    "brightness": 0.4081118404865265,
+    "blue_ratio": 1.0310425758361816,
+    "green_ratio": 1.111675500869751,
+    "texture_strength": 0.09181936830282211
+  },
+  {
+    "class": "forest",
+    "brightness": 0.27799129486083984,
+    "blue_ratio": 0.7355961203575134,
+    "green_ratio": 1.0748069286346436,
+    "texture_strength": 0.15039098262786865
+  },
+  {
+    "class": "forest",
+    "brightness": 0.31013551354408264,
+    "blue_ratio": 0.6958872675895691,
+    "green_ratio": 1.097825527191162,
+    "texture_strength": 0.11712022870779037
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3005007207393646,
+    "blue_ratio": 0.7142738699913025,
+    "green_ratio": 1.3848477602005005,
+    "texture_strength": 0.10549362748861313
+  },
+  {
+    "class": "forest",
+    "brightness": 0.15617692470550537,
+    "blue_ratio": 0.4159727394580841,
+    "green_ratio": 1.234321117401123,
+    "texture_strength": 0.07133001834154129
+  },
+  {
+    "class": "forest",
+    "brightness": 0.21136993169784546,
+    "blue_ratio": 0.8073680996894836,
+    "green_ratio": 1.16132652759552,
+    "texture_strength": 0.11947555840015411
+  },
+  {
+    "class": "forest",
+    "brightness": 0.23486009240150452,
+    "blue_ratio": 0.7348434329032898,
+    "green_ratio": 1.3760408163070679,
+    "texture_strength": 0.11260990798473358
+  },
+  {
+    "class": "forest",
+    "brightness": 0.5365282297134399,
+    "blue_ratio": 0.9617750644683838,
+    "green_ratio": 1.0410212278366089,
+    "texture_strength": 0.1256464570760727
+  },
+  {
+    "class": "forest",
+    "brightness": 0.24372096359729767,
+    "blue_ratio": 0.39010193943977356,
+    "green_ratio": 1.1627556085586548,
+    "texture_strength": 0.0954420194029808
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3480171859264374,
+    "blue_ratio": 0.9060350060462952,
+    "green_ratio": 0.9939146637916565,
+    "texture_strength": 0.18046283721923828
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3792821764945984,
+    "blue_ratio": 0.8626169562339783,
+    "green_ratio": 1.1325987577438354,
+    "texture_strength": 0.1771092712879181
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3917672038078308,
+    "blue_ratio": 0.5749951601028442,
+    "green_ratio": 1.2030826807022095,
+    "texture_strength": 0.19214291870594025
+  },
+  {
+    "class": "forest",
+    "brightness": 0.18710394203662872,
+    "blue_ratio": 0.652302086353302,
+    "green_ratio": 1.3141934871673584,
+    "texture_strength": 0.12208637595176697
+  },
+  {
+    "class": "forest",
+    "brightness": 0.30496546626091003,
+    "blue_ratio": 0.7692139744758606,
+    "green_ratio": 1.3592174053192139,
+    "texture_strength": 0.19076083600521088
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3126107454299927,
+    "blue_ratio": 0.7923325896263123,
+    "green_ratio": 1.3528448343276978,
+    "texture_strength": 0.1397220939397812
+  },
+  {
+    "class": "forest",
+    "brightness": 0.30654487013816833,
+    "blue_ratio": 0.34845399856567383,
+    "green_ratio": 1.291373610496521,
+    "texture_strength": 0.13093066215515137
+  },
+  {
+    "class": "forest",
+    "brightness": 0.31008923053741455,
+    "blue_ratio": 0.6969667673110962,
+    "green_ratio": 1.09253990650177,
+    "texture_strength": 0.16594725847244263
+  },
+  {
+    "class": "forest",
+    "brightness": 0.18656715750694275,
+    "blue_ratio": 0.7248942255973816,
+    "green_ratio": 1.1598758697509766,
+    "texture_strength": 0.14594615995883942
+  },
+  {
+    "class": "forest",
+    "brightness": 0.41021305322647095,
+    "blue_ratio": 1.0344154834747314,
+    "green_ratio": 1.0121287107467651,
+    "texture_strength": 0.14700566232204437
+  },
+  {
+    "class": "forest",
+    "brightness": 0.26466983556747437,
+    "blue_ratio": 0.9999300241470337,
+    "green_ratio": 1.0000349283218384,
+    "texture_strength": 0.12778718769550323
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3413207232952118,
+    "blue_ratio": 0.9085738658905029,
+    "green_ratio": 1.0607213973999023,
+    "texture_strength": 0.19050927460193634
+  },
+  {
+    "class": "forest",
+    "brightness": 0.14213548600673676,
+    "blue_ratio": 0.7060598134994507,
+    "green_ratio": 1.1440433263778687,
+    "texture_strength": 0.09033937752246857
+  },
+  {
+    "class": "forest",
+    "brightness": 0.1527867168188095,
+    "blue_ratio": 1.0017253160476685,
+    "green_ratio": 1.1050385236740112,
+    "texture_strength": 0.11343014240264893
+  },
+  {
+    "class": "forest",
+    "brightness": 0.25719016790390015,
+    "blue_ratio": 0.9761232733726501,
+    "green_ratio": 1.0027397871017456,
+    "texture_strength": 0.15586386620998383
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2114178091287613,
+    "blue_ratio": 0.836353600025177,
+    "green_ratio": 1.2362645864486694,
+    "texture_strength": 0.11380361020565033
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3415485620498657,
+    "blue_ratio": 0.3836596608161926,
+    "green_ratio": 1.4552364349365234,
+    "texture_strength": 0.10905662924051285
+  },
+  {
+    "class": "forest",
+    "brightness": 0.4227985739707947,
+    "blue_ratio": 0.8705796003341675,
+    "green_ratio": 1.1028438806533813,
+    "texture_strength": 0.1916407346725464
+  },
+  {
+    "class": "forest",
+    "brightness": 0.414310485124588,
+    "blue_ratio": 0.818366289138794,
+    "green_ratio": 1.193569302558899,
+    "texture_strength": 0.10805647075176239
+  },
+  {
+    "class": "forest",
+    "brightness": 0.19727423787117004,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.11051295697689056
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2675864100456238,
+    "blue_ratio": 0.8641352653503418,
+    "green_ratio": 1.1743196249008179,
+    "texture_strength": 0.18999798595905304
+  },
+  {
+    "class": "forest",
+    "brightness": 0.23267272114753723,
+    "blue_ratio": 0.7133139967918396,
+    "green_ratio": 1.4354132413864136,
+    "texture_strength": 0.14534702897071838
+  },
+  {
+    "class": "forest",
+    "brightness": 0.2938999831676483,
+    "blue_ratio": 0.6284142732620239,
+    "green_ratio": 1.3005881309509277,
+    "texture_strength": 0.19102993607521057
+  },
+  {
+    "class": "forest",
+    "brightness": 0.31569042801856995,
+    "blue_ratio": 0.9701141119003296,
+    "green_ratio": 1.0161606073379517,
+    "texture_strength": 0.09037373960018158
+  },
+  {
+    "class": "forest",
+    "brightness": 0.3279472589492798,
+    "blue_ratio": 0.8766478896141052,
+    "green_ratio": 1.107836365699768,
+    "texture_strength": 0.1579160839319229
+  },
+  {
+    "class": "forest",
+    "brightness": 0.41934871673583984,
+    "blue_ratio": 0.9752344489097595,
+    "green_ratio": 1.023063063621521,
+    "texture_strength": 0.12168242782354355
+  },
+  {
+    "class": "forest",
+    "brightness": 0.26999974250793457,
+    "blue_ratio": 0.7024589776992798,
+    "green_ratio": 1.2927550077438354,
+    "texture_strength": 0.11583898216485977
+  },
+  {
+    "class": "forest",
+    "brightness": 0.26211288571357727,
+    "blue_ratio": 0.4626739025115967,
+    "green_ratio": 1.644443392753601,
+    "texture_strength": 0.15241725742816925
+  },
+  {
+    "class": "forest",
+    "brightness": 0.31450292468070984,
+    "blue_ratio": 0.6351357102394104,
+    "green_ratio": 1.577995777130127,
+    "texture_strength": 0.11382469534873962
+  },
+  {
+    "class": "forest",
+    "brightness": 0.19522027671337128,
+    "blue_ratio": 0.49141833186149597,
+    "green_ratio": 1.5844000577926636,
+    "texture_strength": 0.12342534959316254
+  },
+  {
+    "class": "forest",
+    "brightness": 0.19033394753932953,
+    "blue_ratio": 0.8028772473335266,
+    "green_ratio": 1.0738128423690796,
+    "texture_strength": 0.13457374274730682
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5387817025184631,
+    "blue_ratio": 1.0762462615966797,
+    "green_ratio": 1.0505099296569824,
+    "texture_strength": 0.08358362317085266
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6352053880691528,
+    "blue_ratio": 1.2327929735183716,
+    "green_ratio": 1.0388368368148804,
+    "texture_strength": 0.10151305794715881
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5508795380592346,
+    "blue_ratio": 1.0778948068618774,
+    "green_ratio": 0.989139974117279,
+    "texture_strength": 0.1428169459104538
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.35277554392814636,
+    "blue_ratio": 1.0849220752716064,
+    "green_ratio": 0.9880586266517639,
+    "texture_strength": 0.07666802406311035
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4466918110847473,
+    "blue_ratio": 1.0426853895187378,
+    "green_ratio": 0.9978488087654114,
+    "texture_strength": 0.11351379007101059
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5725429654121399,
+    "blue_ratio": 1.1098299026489258,
+    "green_ratio": 1.0174734592437744,
+    "texture_strength": 0.15142682194709778
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.40281733870506287,
+    "blue_ratio": 1.0646449327468872,
+    "green_ratio": 0.9763065576553345,
+    "texture_strength": 0.12773984670639038
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.414375901222229,
+    "blue_ratio": 1.034753680229187,
+    "green_ratio": 0.9898514747619629,
+    "texture_strength": 0.11141553521156311
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5316632986068726,
+    "blue_ratio": 1.1580991744995117,
+    "green_ratio": 0.9975730776786804,
+    "texture_strength": 0.08659190684556961
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.42857465147972107,
+    "blue_ratio": 1.0725349187850952,
+    "green_ratio": 0.9824531078338623,
+    "texture_strength": 0.1840841919183731
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.553547203540802,
+    "blue_ratio": 1.0007195472717285,
+    "green_ratio": 1.0013560056686401,
+    "texture_strength": 0.14499622583389282
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4707845151424408,
+    "blue_ratio": 1.1913305521011353,
+    "green_ratio": 0.9867446422576904,
+    "texture_strength": 0.10196629166603088
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5969532132148743,
+    "blue_ratio": 1.1811808347702026,
+    "green_ratio": 0.992711067199707,
+    "texture_strength": 0.10750337690114975
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6490758061408997,
+    "blue_ratio": 1.0841383934020996,
+    "green_ratio": 0.9648457765579224,
+    "texture_strength": 0.12984490394592285
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5898115038871765,
+    "blue_ratio": 1.0782419443130493,
+    "green_ratio": 0.96946120262146,
+    "texture_strength": 0.09869735687971115
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.48308759927749634,
+    "blue_ratio": 1.0096787214279175,
+    "green_ratio": 1.0624300241470337,
+    "texture_strength": 0.1099715381860733
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5251774191856384,
+    "blue_ratio": 1.0550585985183716,
+    "green_ratio": 1.0038387775421143,
+    "texture_strength": 0.07247510552406311
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6128149628639221,
+    "blue_ratio": 1.1938482522964478,
+    "green_ratio": 1.003937005996704,
+    "texture_strength": 0.07691442221403122
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4667065441608429,
+    "blue_ratio": 1.3632303476333618,
+    "green_ratio": 0.9986529350280762,
+    "texture_strength": 0.11049479991197586
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5913638472557068,
+    "blue_ratio": 1.1218637228012085,
+    "green_ratio": 0.9960274696350098,
+    "texture_strength": 0.12220828235149384
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.48632463812828064,
+    "blue_ratio": 1.0066356658935547,
+    "green_ratio": 1.0000603199005127,
+    "texture_strength": 0.06262902915477753
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5370627641677856,
+    "blue_ratio": 1.175818681716919,
+    "green_ratio": 1.0016894340515137,
+    "texture_strength": 0.19237928092479706
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5443007946014404,
+    "blue_ratio": 1.0732381343841553,
+    "green_ratio": 0.99071204662323,
+    "texture_strength": 0.08630076795816422
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5756201148033142,
+    "blue_ratio": 1.0233246088027954,
+    "green_ratio": 0.9953100681304932,
+    "texture_strength": 0.07988543063402176
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4153754413127899,
+    "blue_ratio": 0.9400316476821899,
+    "green_ratio": 0.9800753593444824,
+    "texture_strength": 0.17799174785614014
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5859004855155945,
+    "blue_ratio": 1.0972360372543335,
+    "green_ratio": 0.9900103211402893,
+    "texture_strength": 0.13489016890525818
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.525861382484436,
+    "blue_ratio": 1.0935896635055542,
+    "green_ratio": 1.003166675567627,
+    "texture_strength": 0.08292873203754425
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5226904153823853,
+    "blue_ratio": 1.0915290117263794,
+    "green_ratio": 1.0377575159072876,
+    "texture_strength": 0.06525832414627075
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.43375077843666077,
+    "blue_ratio": 1.0997408628463745,
+    "green_ratio": 0.9990618824958801,
+    "texture_strength": 0.12527266144752502
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.38497304916381836,
+    "blue_ratio": 1.0869426727294922,
+    "green_ratio": 0.9909557700157166,
+    "texture_strength": 0.11291336268186569
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.3566179871559143,
+    "blue_ratio": 1.1060718297958374,
+    "green_ratio": 0.9863231778144836,
+    "texture_strength": 0.14478616416454315
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.40378785133361816,
+    "blue_ratio": 1.2181932926177979,
+    "green_ratio": 0.9956933259963989,
+    "texture_strength": 0.07309562712907791
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4541124105453491,
+    "blue_ratio": 1.0594412088394165,
+    "green_ratio": 1.0037647485733032,
+    "texture_strength": 0.09088922291994095
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5844187140464783,
+    "blue_ratio": 1.0619585514068604,
+    "green_ratio": 0.9812001585960388,
+    "texture_strength": 0.08720076084136963
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.48437246680259705,
+    "blue_ratio": 1.1246678829193115,
+    "green_ratio": 0.9888354539871216,
+    "texture_strength": 0.0413343571126461
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.530055820941925,
+    "blue_ratio": 1.1368440389633179,
+    "green_ratio": 0.9739941358566284,
+    "texture_strength": 0.11804745346307755
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6068563461303711,
+    "blue_ratio": 1.1481940746307373,
+    "green_ratio": 0.9857926368713379,
+    "texture_strength": 0.11792813986539841
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.42963260412216187,
+    "blue_ratio": 0.8261951208114624,
+    "green_ratio": 0.8477085828781128,
+    "texture_strength": 0.12991492450237274
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4985845983028412,
+    "blue_ratio": 1.1751883029937744,
+    "green_ratio": 0.9901266694068909,
+    "texture_strength": 0.0876922458410263
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.26924052834510803,
+    "blue_ratio": 0.8951364755630493,
+    "green_ratio": 1.2226494550704956,
+    "texture_strength": 0.08432605117559433
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5942012667655945,
+    "blue_ratio": 1.0342936515808105,
+    "green_ratio": 1.004804253578186,
+    "texture_strength": 0.059529319405555725
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5586282014846802,
+    "blue_ratio": 1.00271475315094,
+    "green_ratio": 1.0014808177947998,
+    "texture_strength": 0.07170220464468002
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.41564956307411194,
+    "blue_ratio": 1.1148583889007568,
+    "green_ratio": 1.0276556015014648,
+    "texture_strength": 0.08354601263999939
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5144164562225342,
+    "blue_ratio": 1.125858187675476,
+    "green_ratio": 1.0080686807632446,
+    "texture_strength": 0.08275139331817627
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6564896702766418,
+    "blue_ratio": 1.0397448539733887,
+    "green_ratio": 1.005841851234436,
+    "texture_strength": 0.08906817436218262
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.3820663392543793,
+    "blue_ratio": 1.0758013725280762,
+    "green_ratio": 1.00739324092865,
+    "texture_strength": 0.06591451168060303
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5754923820495605,
+    "blue_ratio": 1.047865867614746,
+    "green_ratio": 1.0163447856903076,
+    "texture_strength": 0.094992995262146
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5546664595603943,
+    "blue_ratio": 1.0749683380126953,
+    "green_ratio": 1.0155954360961914,
+    "texture_strength": 0.059433355927467346
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5361762046813965,
+    "blue_ratio": 1.1247366666793823,
+    "green_ratio": 1.0578771829605103,
+    "texture_strength": 0.134463831782341
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.3916988968849182,
+    "blue_ratio": 1.255900263786316,
+    "green_ratio": 0.9966399669647217,
+    "texture_strength": 0.058559950441122055
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5467387437820435,
+    "blue_ratio": 1.0251030921936035,
+    "green_ratio": 1.0066653490066528,
+    "texture_strength": 0.09241428226232529
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5447903871536255,
+    "blue_ratio": 1.1701818704605103,
+    "green_ratio": 0.9872506260871887,
+    "texture_strength": 0.10777861624956131
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4699375331401825,
+    "blue_ratio": 1.1667072772979736,
+    "green_ratio": 0.9604344964027405,
+    "texture_strength": 0.11142267286777496
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6599331498146057,
+    "blue_ratio": 1.0245341062545776,
+    "green_ratio": 0.999431312084198,
+    "texture_strength": 0.08593928068876266
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.3002355098724365,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.14451058208942413
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.45471301674842834,
+    "blue_ratio": 1.3418490886688232,
+    "green_ratio": 1.0123201608657837,
+    "texture_strength": 0.05019063502550125
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5262309312820435,
+    "blue_ratio": 1.0653326511383057,
+    "green_ratio": 1.0030025243759155,
+    "texture_strength": 0.16455870866775513
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.7860418558120728,
+    "blue_ratio": 1.017891526222229,
+    "green_ratio": 1.0010706186294556,
+    "texture_strength": 0.054069727659225464
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6380144357681274,
+    "blue_ratio": 1.1487600803375244,
+    "green_ratio": 1.0260201692581177,
+    "texture_strength": 0.0913943350315094
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.3933297097682953,
+    "blue_ratio": 0.9602312445640564,
+    "green_ratio": 0.9284147620201111,
+    "texture_strength": 0.14678390324115753
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.7633833885192871,
+    "blue_ratio": 1.0472300052642822,
+    "green_ratio": 1.0010024309158325,
+    "texture_strength": 0.08165298402309418
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4643053412437439,
+    "blue_ratio": 1.065705418586731,
+    "green_ratio": 1.014674186706543,
+    "texture_strength": 0.07193498313426971
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6447775959968567,
+    "blue_ratio": 1.1508004665374756,
+    "green_ratio": 0.9825106859207153,
+    "texture_strength": 0.055139921605587006
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.3629777431488037,
+    "blue_ratio": 1.0065704584121704,
+    "green_ratio": 1.059537410736084,
+    "texture_strength": 0.0827568918466568
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6752154231071472,
+    "blue_ratio": 1.056816816329956,
+    "green_ratio": 1.000293493270874,
+    "texture_strength": 0.09657024592161179
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5721918940544128,
+    "blue_ratio": 1.129346489906311,
+    "green_ratio": 1.03664231300354,
+    "texture_strength": 0.10363919287919998
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.42991313338279724,
+    "blue_ratio": 1.1797304153442383,
+    "green_ratio": 1.068596601486206,
+    "texture_strength": 0.06094317510724068
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6810716390609741,
+    "blue_ratio": 1.058846354484558,
+    "green_ratio": 1.0157546997070312,
+    "texture_strength": 0.0807928740978241
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5687324404716492,
+    "blue_ratio": 1.1724330186843872,
+    "green_ratio": 1.0235785245895386,
+    "texture_strength": 0.15201328694820404
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4602149724960327,
+    "blue_ratio": 1.0641930103302002,
+    "green_ratio": 1.0031427145004272,
+    "texture_strength": 0.151532843708992
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5119089484214783,
+    "blue_ratio": 1.0788161754608154,
+    "green_ratio": 0.9853600263595581,
+    "texture_strength": 0.11946973949670792
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4237007796764374,
+    "blue_ratio": 1.2061498165130615,
+    "green_ratio": 0.9833283424377441,
+    "texture_strength": 0.06002826988697052
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.803501546382904,
+    "blue_ratio": 1.0227808952331543,
+    "green_ratio": 1.0140266418457031,
+    "texture_strength": 0.05410604178905487
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5120031237602234,
+    "blue_ratio": 1.053541898727417,
+    "green_ratio": 1.0414714813232422,
+    "texture_strength": 0.07179038971662521
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5748752355575562,
+    "blue_ratio": 1.0503064393997192,
+    "green_ratio": 1.017440915107727,
+    "texture_strength": 0.10465232282876968
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4262934625148773,
+    "blue_ratio": 1.1778913736343384,
+    "green_ratio": 1.0156404972076416,
+    "texture_strength": 0.0681651383638382
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5135097503662109,
+    "blue_ratio": 1.1219338178634644,
+    "green_ratio": 1.0119870901107788,
+    "texture_strength": 0.13391366600990295
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6702777147293091,
+    "blue_ratio": 1.0472400188446045,
+    "green_ratio": 0.9815728664398193,
+    "texture_strength": 0.11008370667695999
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5255878567695618,
+    "blue_ratio": 1.028085470199585,
+    "green_ratio": 1.0001676082611084,
+    "texture_strength": 0.1341182291507721
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4228343367576599,
+    "blue_ratio": 1.1267067193984985,
+    "green_ratio": 1.0034666061401367,
+    "texture_strength": 0.10247723758220673
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.504890501499176,
+    "blue_ratio": 1.1291632652282715,
+    "green_ratio": 1.0126103162765503,
+    "texture_strength": 0.14887858927249908
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5530563592910767,
+    "blue_ratio": 1.1455340385437012,
+    "green_ratio": 1.0069655179977417,
+    "texture_strength": 0.13213248550891876
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5762960314750671,
+    "blue_ratio": 1.1799235343933105,
+    "green_ratio": 1.0007747411727905,
+    "texture_strength": 0.14541347324848175
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5742640495300293,
+    "blue_ratio": 0.9793812036514282,
+    "green_ratio": 1.0560975074768066,
+    "texture_strength": 0.08870506286621094
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.4696391224861145,
+    "blue_ratio": 1.2188869714736938,
+    "green_ratio": 0.9881013035774231,
+    "texture_strength": 0.11794273555278778
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5798499584197998,
+    "blue_ratio": 1.0830843448638916,
+    "green_ratio": 1.0061410665512085,
+    "texture_strength": 0.11727681010961533
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5161694884300232,
+    "blue_ratio": 1.0924181938171387,
+    "green_ratio": 0.9998076558113098,
+    "texture_strength": 0.13138163089752197
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.48850494623184204,
+    "blue_ratio": 1.0840445756912231,
+    "green_ratio": 1.0183922052383423,
+    "texture_strength": 0.08077342063188553
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5059701204299927,
+    "blue_ratio": 1.0156550407409668,
+    "green_ratio": 1.0101183652877808,
+    "texture_strength": 0.1558985710144043
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6495263576507568,
+    "blue_ratio": 1.0918235778808594,
+    "green_ratio": 0.9760202169418335,
+    "texture_strength": 0.11091918498277664
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.43907430768013,
+    "blue_ratio": 1.121893048286438,
+    "green_ratio": 1.0241115093231201,
+    "texture_strength": 0.040838003158569336
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5107874870300293,
+    "blue_ratio": 1.0310617685317993,
+    "green_ratio": 0.9956864714622498,
+    "texture_strength": 0.10925634205341339
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5979827046394348,
+    "blue_ratio": 1.0344502925872803,
+    "green_ratio": 1.0081686973571777,
+    "texture_strength": 0.09659553319215775
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6023820638656616,
+    "blue_ratio": 1.1126854419708252,
+    "green_ratio": 0.9918814301490784,
+    "texture_strength": 0.11043288558721542
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6431379318237305,
+    "blue_ratio": 1.0241302251815796,
+    "green_ratio": 0.9962088465690613,
+    "texture_strength": 0.11696979403495789
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6602526307106018,
+    "blue_ratio": 1.0338842868804932,
+    "green_ratio": 1.017682671546936,
+    "texture_strength": 0.09596463292837143
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5940573215484619,
+    "blue_ratio": 1.0377594232559204,
+    "green_ratio": 0.9915919899940491,
+    "texture_strength": 0.040986813604831696
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5972959399223328,
+    "blue_ratio": 1.1055171489715576,
+    "green_ratio": 0.9972034096717834,
+    "texture_strength": 0.07047929614782333
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.5123867392539978,
+    "blue_ratio": 1.156670093536377,
+    "green_ratio": 1.0550215244293213,
+    "texture_strength": 0.037181954830884933
+  },
+  {
+    "class": "glacier",
+    "brightness": 0.6114113926887512,
+    "blue_ratio": 0.9938914179801941,
+    "green_ratio": 0.9967350959777832,
+    "texture_strength": 0.05490811914205551
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.40188801288604736,
+    "blue_ratio": 0.9858706593513489,
+    "green_ratio": 1.0153181552886963,
+    "texture_strength": 0.061760496348142624
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4618406593799591,
+    "blue_ratio": 1.2304528951644897,
+    "green_ratio": 0.9875444769859314,
+    "texture_strength": 0.058475006371736526
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.41760653257369995,
+    "blue_ratio": 1.1232407093048096,
+    "green_ratio": 1.0373269319534302,
+    "texture_strength": 0.08078963309526443
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5024694800376892,
+    "blue_ratio": 1.051531434059143,
+    "green_ratio": 1.0252690315246582,
+    "texture_strength": 0.04794033244252205
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5234528183937073,
+    "blue_ratio": 1.0797806978225708,
+    "green_ratio": 1.0079801082611084,
+    "texture_strength": 0.10509616881608963
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4199691116809845,
+    "blue_ratio": 1.1359277963638306,
+    "green_ratio": 1.014297604560852,
+    "texture_strength": 0.09251575917005539
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5699777007102966,
+    "blue_ratio": 1.1372979879379272,
+    "green_ratio": 0.9356167316436768,
+    "texture_strength": 0.1528370976448059
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.49855464696884155,
+    "blue_ratio": 0.9782760143280029,
+    "green_ratio": 0.9997689127922058,
+    "texture_strength": 0.03897026181221008
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.46527424454689026,
+    "blue_ratio": 1.1039701700210571,
+    "green_ratio": 1.0493247509002686,
+    "texture_strength": 0.07818011939525604
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4429183304309845,
+    "blue_ratio": 1.0045472383499146,
+    "green_ratio": 1.031465768814087,
+    "texture_strength": 0.0475376732647419
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.44047245383262634,
+    "blue_ratio": 1.0444488525390625,
+    "green_ratio": 1.0490916967391968,
+    "texture_strength": 0.09096962958574295
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5525767207145691,
+    "blue_ratio": 1.0185490846633911,
+    "green_ratio": 1.0152102708816528,
+    "texture_strength": 0.048455819487571716
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.42975643277168274,
+    "blue_ratio": 1.0044444799423218,
+    "green_ratio": 1.0977650880813599,
+    "texture_strength": 0.07183480262756348
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4683954417705536,
+    "blue_ratio": 1.0243594646453857,
+    "green_ratio": 0.9845723509788513,
+    "texture_strength": 0.04970270395278931
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5444833636283875,
+    "blue_ratio": 1.0345242023468018,
+    "green_ratio": 1.0131386518478394,
+    "texture_strength": 0.08510997146368027
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.491335391998291,
+    "blue_ratio": 1.2185311317443848,
+    "green_ratio": 0.9473138451576233,
+    "texture_strength": 0.08320333063602448
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4856480360031128,
+    "blue_ratio": 1.1538420915603638,
+    "green_ratio": 0.9728227257728577,
+    "texture_strength": 0.08767669647932053
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5881960391998291,
+    "blue_ratio": 1.0728336572647095,
+    "green_ratio": 1.0316052436828613,
+    "texture_strength": 0.049965307116508484
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4919391870498657,
+    "blue_ratio": 1.01412034034729,
+    "green_ratio": 0.9982510209083557,
+    "texture_strength": 0.17524833977222443
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.3996521234512329,
+    "blue_ratio": 1.1449214220046997,
+    "green_ratio": 0.9860990643501282,
+    "texture_strength": 0.06538541615009308
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4631619155406952,
+    "blue_ratio": 0.9378159642219543,
+    "green_ratio": 1.0490232706069946,
+    "texture_strength": 0.04404178261756897
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5365183353424072,
+    "blue_ratio": 0.9722017049789429,
+    "green_ratio": 1.013710856437683,
+    "texture_strength": 0.03440547361969948
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5540400147438049,
+    "blue_ratio": 1.0096534490585327,
+    "green_ratio": 1.0068280696868896,
+    "texture_strength": 0.0888509526848793
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.48482656478881836,
+    "blue_ratio": 0.9915250539779663,
+    "green_ratio": 1.0144203901290894,
+    "texture_strength": 0.034567251801490784
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5712622404098511,
+    "blue_ratio": 1.063366413116455,
+    "green_ratio": 1.0060585737228394,
+    "texture_strength": 0.08969032764434814
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5386373996734619,
+    "blue_ratio": 1.0581536293029785,
+    "green_ratio": 1.0298188924789429,
+    "texture_strength": 0.057931967079639435
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4241144061088562,
+    "blue_ratio": 0.901428759098053,
+    "green_ratio": 1.0433541536331177,
+    "texture_strength": 0.11142526566982269
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5894942879676819,
+    "blue_ratio": 1.0906474590301514,
+    "green_ratio": 0.9650714993476868,
+    "texture_strength": 0.07409482449293137
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5323771834373474,
+    "blue_ratio": 1.089220404624939,
+    "green_ratio": 0.9801058173179626,
+    "texture_strength": 0.09136904776096344
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5464920401573181,
+    "blue_ratio": 0.922971248626709,
+    "green_ratio": 1.0406482219696045,
+    "texture_strength": 0.07526065409183502
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5087980031967163,
+    "blue_ratio": 1.0333830118179321,
+    "green_ratio": 1.055432915687561,
+    "texture_strength": 0.09519724547863007
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4605928361415863,
+    "blue_ratio": 1.2011557817459106,
+    "green_ratio": 1.0163589715957642,
+    "texture_strength": 0.06072531268000603
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.44891971349716187,
+    "blue_ratio": 1.1255830526351929,
+    "green_ratio": 0.9919540286064148,
+    "texture_strength": 0.12688004970550537
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5116737484931946,
+    "blue_ratio": 1.033315658569336,
+    "green_ratio": 0.9987463355064392,
+    "texture_strength": 0.03324579820036888
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.307602196931839,
+    "blue_ratio": 1.0880268812179565,
+    "green_ratio": 1.0413858890533447,
+    "texture_strength": 0.14504843950271606
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.28465011715888977,
+    "blue_ratio": 1.0848358869552612,
+    "green_ratio": 0.9913513660430908,
+    "texture_strength": 0.06639109551906586
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.48900729417800903,
+    "blue_ratio": 0.9676787853240967,
+    "green_ratio": 1.0579777956008911,
+    "texture_strength": 0.07852701097726822
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.42309221625328064,
+    "blue_ratio": 1.0446009635925293,
+    "green_ratio": 1.008894681930542,
+    "texture_strength": 0.09281661361455917
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.27859190106391907,
+    "blue_ratio": 0.9716009497642517,
+    "green_ratio": 1.0437699556350708,
+    "texture_strength": 0.11640437692403793
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4694313406944275,
+    "blue_ratio": 1.2336071729660034,
+    "green_ratio": 0.9754122495651245,
+    "texture_strength": 0.12805691361427307
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.46459195017814636,
+    "blue_ratio": 1.0169662237167358,
+    "green_ratio": 1.016768455505371,
+    "texture_strength": 0.10250414907932281
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.43301451206207275,
+    "blue_ratio": 0.7822828888893127,
+    "green_ratio": 1.0629528760910034,
+    "texture_strength": 0.09472066909074783
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.43066534399986267,
+    "blue_ratio": 1.0381965637207031,
+    "green_ratio": 0.9835949540138245,
+    "texture_strength": 0.09113594144582748
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.37786969542503357,
+    "blue_ratio": 1.1095620393753052,
+    "green_ratio": 1.0076534748077393,
+    "texture_strength": 0.10145048052072525
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.28196901082992554,
+    "blue_ratio": 1.2434544563293457,
+    "green_ratio": 1.0619059801101685,
+    "texture_strength": 0.05528095364570618
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.540061354637146,
+    "blue_ratio": 0.923166811466217,
+    "green_ratio": 1.0290838479995728,
+    "texture_strength": 0.19202329218387604
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5731572508811951,
+    "blue_ratio": 1.0550799369812012,
+    "green_ratio": 1.035659670829773,
+    "texture_strength": 0.03614126145839691
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.51206374168396,
+    "blue_ratio": 0.9993936419487,
+    "green_ratio": 1.0470807552337646,
+    "texture_strength": 0.06676814705133438
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4745490550994873,
+    "blue_ratio": 1.2934125661849976,
+    "green_ratio": 0.9879553914070129,
+    "texture_strength": 0.09146080166101456
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5275476574897766,
+    "blue_ratio": 1.17225182056427,
+    "green_ratio": 0.9971706867218018,
+    "texture_strength": 0.07917315512895584
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5088021755218506,
+    "blue_ratio": 1.0674445629119873,
+    "green_ratio": 1.0089198350906372,
+    "texture_strength": 0.0858345627784729
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5412916541099548,
+    "blue_ratio": 1.0002593994140625,
+    "green_ratio": 0.996136486530304,
+    "texture_strength": 0.08725814521312714
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4935227632522583,
+    "blue_ratio": 0.9645614624023438,
+    "green_ratio": 1.0214216709136963,
+    "texture_strength": 0.04886982589960098
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.49727267026901245,
+    "blue_ratio": 1.101820468902588,
+    "green_ratio": 1.00265634059906,
+    "texture_strength": 0.04837930202484131
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.3487282395362854,
+    "blue_ratio": 1.1020848751068115,
+    "green_ratio": 1.0004676580429077,
+    "texture_strength": 0.08405663073062897
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5614274144172668,
+    "blue_ratio": 1.0220776796340942,
+    "green_ratio": 0.993518590927124,
+    "texture_strength": 0.09880368411540985
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4576653838157654,
+    "blue_ratio": 0.9362993240356445,
+    "green_ratio": 1.011082410812378,
+    "texture_strength": 0.05008688569068909
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5312573313713074,
+    "blue_ratio": 1.0381542444229126,
+    "green_ratio": 1.077160358428955,
+    "texture_strength": 0.06388824433088303
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4414515793323517,
+    "blue_ratio": 0.993553638458252,
+    "green_ratio": 1.009531021118164,
+    "texture_strength": 0.05994559824466705
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5137238502502441,
+    "blue_ratio": 0.96099454164505,
+    "green_ratio": 1.0196555852890015,
+    "texture_strength": 0.14752016961574554
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4503322243690491,
+    "blue_ratio": 1.106337070465088,
+    "green_ratio": 1.0152244567871094,
+    "texture_strength": 0.030128255486488342
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4561622440814972,
+    "blue_ratio": 0.9990065097808838,
+    "green_ratio": 1.029746174812317,
+    "texture_strength": 0.07628222554922104
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.33329442143440247,
+    "blue_ratio": 1.2452683448791504,
+    "green_ratio": 0.9979997277259827,
+    "texture_strength": 0.040809474885463715
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.38098734617233276,
+    "blue_ratio": 0.8509081602096558,
+    "green_ratio": 0.9849807620048523,
+    "texture_strength": 0.12031816691160202
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4500325620174408,
+    "blue_ratio": 1.2554898262023926,
+    "green_ratio": 1.0177427530288696,
+    "texture_strength": 0.07344642281532288
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.639448344707489,
+    "blue_ratio": 0.9846082925796509,
+    "green_ratio": 1.044862151145935,
+    "texture_strength": 0.09529353678226471
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.44872888922691345,
+    "blue_ratio": 1.4126466512680054,
+    "green_ratio": 0.9503223299980164,
+    "texture_strength": 0.12716926634311676
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5470932722091675,
+    "blue_ratio": 1.0598886013031006,
+    "green_ratio": 0.983187735080719,
+    "texture_strength": 0.10460791736841202
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.6097100973129272,
+    "blue_ratio": 1.0721683502197266,
+    "green_ratio": 0.984425961971283,
+    "texture_strength": 0.04295829311013222
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.25747227668762207,
+    "blue_ratio": 1.1185437440872192,
+    "green_ratio": 1.0603007078170776,
+    "texture_strength": 0.09013545513153076
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4771710932254791,
+    "blue_ratio": 1.1565911769866943,
+    "green_ratio": 1.019780158996582,
+    "texture_strength": 0.10675608366727829
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.7628376483917236,
+    "blue_ratio": 1.0862224102020264,
+    "green_ratio": 0.9884085655212402,
+    "texture_strength": 0.05564244091510773
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4820874035358429,
+    "blue_ratio": 1.0899356603622437,
+    "green_ratio": 0.9987038373947144,
+    "texture_strength": 0.13388967514038086
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5073555111885071,
+    "blue_ratio": 1.0390666723251343,
+    "green_ratio": 0.991961658000946,
+    "texture_strength": 0.07804329693317413
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5521245002746582,
+    "blue_ratio": 1.143491268157959,
+    "green_ratio": 0.9823871850967407,
+    "texture_strength": 0.06573879718780518
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.2985357940196991,
+    "blue_ratio": 0.9488649368286133,
+    "green_ratio": 1.029951572418213,
+    "texture_strength": 0.12344381958246231
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.47566601634025574,
+    "blue_ratio": 0.9665723443031311,
+    "green_ratio": 1.0252007246017456,
+    "texture_strength": 0.04253359138965607
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.48947417736053467,
+    "blue_ratio": 0.9667890071868896,
+    "green_ratio": 1.0274858474731445,
+    "texture_strength": 0.1203126534819603
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5511460304260254,
+    "blue_ratio": 1.0580236911773682,
+    "green_ratio": 1.0328196287155151,
+    "texture_strength": 0.09185081720352173
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5102717876434326,
+    "blue_ratio": 1.074181318283081,
+    "green_ratio": 0.9889361262321472,
+    "texture_strength": 0.08977072685956955
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4782682955265045,
+    "blue_ratio": 1.3156540393829346,
+    "green_ratio": 0.9959129691123962,
+    "texture_strength": 0.026247859001159668
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4343832731246948,
+    "blue_ratio": 0.7778628468513489,
+    "green_ratio": 0.850645899772644,
+    "texture_strength": 0.029614068567752838
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.43593716621398926,
+    "blue_ratio": 1.110958218574524,
+    "green_ratio": 1.0049619674682617,
+    "texture_strength": 0.10531629621982574
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.6046638488769531,
+    "blue_ratio": 0.9676557779312134,
+    "green_ratio": 1.0301676988601685,
+    "texture_strength": 0.07256749272346497
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5523277521133423,
+    "blue_ratio": 0.9831575751304626,
+    "green_ratio": 1.0078812837600708,
+    "texture_strength": 0.05124915763735771
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5276360511779785,
+    "blue_ratio": 1.1764230728149414,
+    "green_ratio": 0.9876805543899536,
+    "texture_strength": 0.09173668920993805
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4011651873588562,
+    "blue_ratio": 1.089031457901001,
+    "green_ratio": 1.0609986782073975,
+    "texture_strength": 0.09775228798389435
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5237728953361511,
+    "blue_ratio": 1.3389028310775757,
+    "green_ratio": 0.8908160328865051,
+    "texture_strength": 0.07921432703733444
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.46928074955940247,
+    "blue_ratio": 1.0081456899642944,
+    "green_ratio": 0.9814276099205017,
+    "texture_strength": 0.11573782563209534
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.6150546669960022,
+    "blue_ratio": 1.139483094215393,
+    "green_ratio": 1.019455909729004,
+    "texture_strength": 0.04206997901201248
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.40956297516822815,
+    "blue_ratio": 1.1835911273956299,
+    "green_ratio": 1.043533205986023,
+    "texture_strength": 0.09817343205213547
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5086853504180908,
+    "blue_ratio": 1.0326744318008423,
+    "green_ratio": 1.0021312236785889,
+    "texture_strength": 0.07951389253139496
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4184863865375519,
+    "blue_ratio": 1.155569076538086,
+    "green_ratio": 0.9902021288871765,
+    "texture_strength": 0.11703432351350784
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.45320096611976624,
+    "blue_ratio": 1.0317045450210571,
+    "green_ratio": 1.0140520334243774,
+    "texture_strength": 0.06856001913547516
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.4263748526573181,
+    "blue_ratio": 0.9615417718887329,
+    "green_ratio": 1.03782057762146,
+    "texture_strength": 0.07733070850372314
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5167601704597473,
+    "blue_ratio": 0.9933140873908997,
+    "green_ratio": 1.007883906364441,
+    "texture_strength": 0.053093232214450836
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.5612027049064636,
+    "blue_ratio": 0.972947895526886,
+    "green_ratio": 0.9965282678604126,
+    "texture_strength": 0.10024964809417725
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.48759764432907104,
+    "blue_ratio": 1.0021775960922241,
+    "green_ratio": 0.9950185418128967,
+    "texture_strength": 0.08519425988197327
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.42149680852890015,
+    "blue_ratio": 1.3196401596069336,
+    "green_ratio": 0.9321377873420715,
+    "texture_strength": 0.06721619516611099
+  },
+  {
+    "class": "mountain",
+    "brightness": 0.3530426621437073,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.01745934598147869
+  },
+  {
+    "class": "sea",
+    "brightness": 0.46021944284439087,
+    "blue_ratio": 1.1508289575576782,
+    "green_ratio": 1.0210509300231934,
+    "texture_strength": 0.0894303098320961
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3232964277267456,
+    "blue_ratio": 1.039002776145935,
+    "green_ratio": 0.9644492268562317,
+    "texture_strength": 0.1368100941181183
+  },
+  {
+    "class": "sea",
+    "brightness": 0.6147049069404602,
+    "blue_ratio": 1.0588290691375732,
+    "green_ratio": 0.9835634827613831,
+    "texture_strength": 0.06911440938711166
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4354265630245209,
+    "blue_ratio": 1.4929473400115967,
+    "green_ratio": 0.893109142780304,
+    "texture_strength": 0.037372589111328125
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4826768636703491,
+    "blue_ratio": 0.9903393983840942,
+    "green_ratio": 0.9983767867088318,
+    "texture_strength": 0.09089668095111847
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5927162766456604,
+    "blue_ratio": 0.9770929217338562,
+    "green_ratio": 0.9953958988189697,
+    "texture_strength": 0.04036920145153999
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5317105054855347,
+    "blue_ratio": 1.1345971822738647,
+    "green_ratio": 1.0240546464920044,
+    "texture_strength": 0.1065012589097023
+  },
+  {
+    "class": "sea",
+    "brightness": 0.48447680473327637,
+    "blue_ratio": 1.1087347269058228,
+    "green_ratio": 0.996335506439209,
+    "texture_strength": 0.10061274468898773
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4324100613594055,
+    "blue_ratio": 1.071335792541504,
+    "green_ratio": 1.0001667737960815,
+    "texture_strength": 0.077630914747715
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3297960162162781,
+    "blue_ratio": 1.453458309173584,
+    "green_ratio": 0.9746611714363098,
+    "texture_strength": 0.02722889743745327
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5205764174461365,
+    "blue_ratio": 0.9294547438621521,
+    "green_ratio": 1.100743293762207,
+    "texture_strength": 0.12760402262210846
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5912920236587524,
+    "blue_ratio": 1.0550384521484375,
+    "green_ratio": 1.0458769798278809,
+    "texture_strength": 0.08615293353796005
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4058903455734253,
+    "blue_ratio": 1.0167160034179688,
+    "green_ratio": 1.023506999015808,
+    "texture_strength": 0.13025178015232086
+  },
+  {
+    "class": "sea",
+    "brightness": 0.36652401089668274,
+    "blue_ratio": 1.105836272239685,
+    "green_ratio": 1.0202075242996216,
+    "texture_strength": 0.0867212638258934
+  },
+  {
+    "class": "sea",
+    "brightness": 0.47157278656959534,
+    "blue_ratio": 1.0649126768112183,
+    "green_ratio": 1.042449951171875,
+    "texture_strength": 0.14885295927524567
+  },
+  {
+    "class": "sea",
+    "brightness": 0.48590782284736633,
+    "blue_ratio": 1.1337717771530151,
+    "green_ratio": 0.982241153717041,
+    "texture_strength": 0.06945287436246872
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5362359285354614,
+    "blue_ratio": 1.091107726097107,
+    "green_ratio": 0.9857063889503479,
+    "texture_strength": 0.09396234899759293
+  },
+  {
+    "class": "sea",
+    "brightness": 0.6762171983718872,
+    "blue_ratio": 1.0161231756210327,
+    "green_ratio": 0.9975473284721375,
+    "texture_strength": 0.04664092883467674
+  },
+  {
+    "class": "sea",
+    "brightness": 0.6571308374404907,
+    "blue_ratio": 1.0084518194198608,
+    "green_ratio": 1.056894302368164,
+    "texture_strength": 0.057356830686330795
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5973562598228455,
+    "blue_ratio": 1.0216264724731445,
+    "green_ratio": 0.997016191482544,
+    "texture_strength": 0.08688661456108093
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5404673218727112,
+    "blue_ratio": 1.0585159063339233,
+    "green_ratio": 0.9948108792304993,
+    "texture_strength": 0.06900806725025177
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4939456284046173,
+    "blue_ratio": 0.9861094951629639,
+    "green_ratio": 1.0017088651657104,
+    "texture_strength": 0.06364087015390396
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4073609411716461,
+    "blue_ratio": 0.9885039329528809,
+    "green_ratio": 1.0196287631988525,
+    "texture_strength": 0.10072199255228043
+  },
+  {
+    "class": "sea",
+    "brightness": 0.43281954526901245,
+    "blue_ratio": 1.0978776216506958,
+    "green_ratio": 1.0339739322662354,
+    "texture_strength": 0.12683402001857758
+  },
+  {
+    "class": "sea",
+    "brightness": 0.35721635818481445,
+    "blue_ratio": 0.9914385080337524,
+    "green_ratio": 1.0174552202224731,
+    "texture_strength": 0.17368537187576294
+  },
+  {
+    "class": "sea",
+    "brightness": 0.37025758624076843,
+    "blue_ratio": 0.967773973941803,
+    "green_ratio": 0.9827095866203308,
+    "texture_strength": 0.07700131088495255
+  },
+  {
+    "class": "sea",
+    "brightness": 0.2952374815940857,
+    "blue_ratio": 0.9101381897926331,
+    "green_ratio": 0.5913973450660706,
+    "texture_strength": 0.05199482664465904
+  },
+  {
+    "class": "sea",
+    "brightness": 0.11895105987787247,
+    "blue_ratio": 1.0709099769592285,
+    "green_ratio": 0.9985511302947998,
+    "texture_strength": 0.04729030281305313
+  },
+  {
+    "class": "sea",
+    "brightness": 0.7043559551239014,
+    "blue_ratio": 1.125287652015686,
+    "green_ratio": 1.0440423488616943,
+    "texture_strength": 0.062340494245290756
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4645163118839264,
+    "blue_ratio": 0.9720494151115417,
+    "green_ratio": 1.0018467903137207,
+    "texture_strength": 0.09057053923606873
+  },
+  {
+    "class": "sea",
+    "brightness": 0.23422755300998688,
+    "blue_ratio": 0.9526703953742981,
+    "green_ratio": 0.9972776770591736,
+    "texture_strength": 0.051798030734062195
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5326634645462036,
+    "blue_ratio": 1.0337530374526978,
+    "green_ratio": 1.0031557083129883,
+    "texture_strength": 0.10237187147140503
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5443981885910034,
+    "blue_ratio": 1.407080054283142,
+    "green_ratio": 0.9915636777877808,
+    "texture_strength": 0.03756970539689064
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4969002306461334,
+    "blue_ratio": 0.9953924417495728,
+    "green_ratio": 0.9995831251144409,
+    "texture_strength": 0.05798935890197754
+  },
+  {
+    "class": "sea",
+    "brightness": 0.449851930141449,
+    "blue_ratio": 0.9477689862251282,
+    "green_ratio": 1.015250563621521,
+    "texture_strength": 0.09738820791244507
+  },
+  {
+    "class": "sea",
+    "brightness": 0.37481871247291565,
+    "blue_ratio": 1.1595040559768677,
+    "green_ratio": 1.0274089574813843,
+    "texture_strength": 0.09452549368143082
+  },
+  {
+    "class": "sea",
+    "brightness": 0.47779566049575806,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.09344654530286789
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4619814157485962,
+    "blue_ratio": 1.0193161964416504,
+    "green_ratio": 1.0093520879745483,
+    "texture_strength": 0.13849562406539917
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4818282723426819,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.08386048674583435
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5429093837738037,
+    "blue_ratio": 1.2275463342666626,
+    "green_ratio": 0.9877384901046753,
+    "texture_strength": 0.09353116154670715
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5477545857429504,
+    "blue_ratio": 1.1289440393447876,
+    "green_ratio": 1.0072245597839355,
+    "texture_strength": 0.06467541307210922
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5619329214096069,
+    "blue_ratio": 0.9188900589942932,
+    "green_ratio": 1.0129902362823486,
+    "texture_strength": 0.1170203685760498
+  },
+  {
+    "class": "sea",
+    "brightness": 0.7228049635887146,
+    "blue_ratio": 0.9005473256111145,
+    "green_ratio": 1.0564135313034058,
+    "texture_strength": 0.10126893222332001
+  },
+  {
+    "class": "sea",
+    "brightness": 0.37711939215660095,
+    "blue_ratio": 1.450028419494629,
+    "green_ratio": 1.0618525743484497,
+    "texture_strength": 0.04579605534672737
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4470233917236328,
+    "blue_ratio": 1.0578123331069946,
+    "green_ratio": 1.0033197402954102,
+    "texture_strength": 0.10539085417985916
+  },
+  {
+    "class": "sea",
+    "brightness": 0.49353650212287903,
+    "blue_ratio": 1.0336204767227173,
+    "green_ratio": 1.0094667673110962,
+    "texture_strength": 0.08856922388076782
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3530254364013672,
+    "blue_ratio": 1.064570665359497,
+    "green_ratio": 1.0306947231292725,
+    "texture_strength": 0.11420045793056488
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5116833448410034,
+    "blue_ratio": 1.0307778120040894,
+    "green_ratio": 1.04771888256073,
+    "texture_strength": 0.05534125864505768
+  },
+  {
+    "class": "sea",
+    "brightness": 0.49140816926956177,
+    "blue_ratio": 0.9857052564620972,
+    "green_ratio": 1.027835488319397,
+    "texture_strength": 0.07359360158443451
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5702745318412781,
+    "blue_ratio": 1.3754256963729858,
+    "green_ratio": 0.9752630591392517,
+    "texture_strength": 0.061840567737817764
+  },
+  {
+    "class": "sea",
+    "brightness": 0.41908350586891174,
+    "blue_ratio": 0.9973239898681641,
+    "green_ratio": 0.9939063191413879,
+    "texture_strength": 0.08816364407539368
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5974937677383423,
+    "blue_ratio": 0.9868711829185486,
+    "green_ratio": 1.0119131803512573,
+    "texture_strength": 0.09208520501852036
+  },
+  {
+    "class": "sea",
+    "brightness": 0.510967493057251,
+    "blue_ratio": 1.1115461587905884,
+    "green_ratio": 1.004280924797058,
+    "texture_strength": 0.05293112248182297
+  },
+  {
+    "class": "sea",
+    "brightness": 0.6233009099960327,
+    "blue_ratio": 1.2536455392837524,
+    "green_ratio": 1.0274085998535156,
+    "texture_strength": 0.09053032845258713
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3878421187400818,
+    "blue_ratio": 1.1917426586151123,
+    "green_ratio": 1.008533000946045,
+    "texture_strength": 0.035851746797561646
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4597321152687073,
+    "blue_ratio": 1.0769855976104736,
+    "green_ratio": 1.0548731088638306,
+    "texture_strength": 0.12077270448207855
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5983462333679199,
+    "blue_ratio": 1.0431472063064575,
+    "green_ratio": 0.8219156861305237,
+    "texture_strength": 0.07600664347410202
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3739008903503418,
+    "blue_ratio": 1.429468035697937,
+    "green_ratio": 0.9822165369987488,
+    "texture_strength": 0.03723998740315437
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5510231852531433,
+    "blue_ratio": 1.072403073310852,
+    "green_ratio": 0.9919940233230591,
+    "texture_strength": 0.0930853858590126
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5883569121360779,
+    "blue_ratio": 0.9054866433143616,
+    "green_ratio": 1.0127463340759277,
+    "texture_strength": 0.12029969692230225
+  },
+  {
+    "class": "sea",
+    "brightness": 0.34182143211364746,
+    "blue_ratio": 1.0103532075881958,
+    "green_ratio": 1.0221142768859863,
+    "texture_strength": 0.0558246448636055
+  },
+  {
+    "class": "sea",
+    "brightness": 0.49967578053474426,
+    "blue_ratio": 0.7873978614807129,
+    "green_ratio": 0.9972957372665405,
+    "texture_strength": 0.09411214292049408
+  },
+  {
+    "class": "sea",
+    "brightness": 0.47752055525779724,
+    "blue_ratio": 1.2184561491012573,
+    "green_ratio": 0.9784572720527649,
+    "texture_strength": 0.07240312546491623
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5272815227508545,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.0758325532078743
+  },
+  {
+    "class": "sea",
+    "brightness": 0.6177316308021545,
+    "blue_ratio": 1.1077678203582764,
+    "green_ratio": 0.9943068027496338,
+    "texture_strength": 0.08443659543991089
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3764606714248657,
+    "blue_ratio": 0.8715159296989441,
+    "green_ratio": 0.8946361541748047,
+    "texture_strength": 0.1976647526025772
+  },
+  {
+    "class": "sea",
+    "brightness": 0.672013521194458,
+    "blue_ratio": 1.1331011056900024,
+    "green_ratio": 0.9724382758140564,
+    "texture_strength": 0.025083642452955246
+  },
+  {
+    "class": "sea",
+    "brightness": 0.2512960135936737,
+    "blue_ratio": 0.7516411542892456,
+    "green_ratio": 0.9783039093017578,
+    "texture_strength": 0.06005615368485451
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3233877122402191,
+    "blue_ratio": 1.1543349027633667,
+    "green_ratio": 0.9824644923210144,
+    "texture_strength": 0.05611221119761467
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5726935863494873,
+    "blue_ratio": 1.0627249479293823,
+    "green_ratio": 0.9916595220565796,
+    "texture_strength": 0.10444450378417969
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3114640712738037,
+    "blue_ratio": 0.9876059889793396,
+    "green_ratio": 1.0080320835113525,
+    "texture_strength": 0.09905754029750824
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5305357575416565,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1347309798002243
+  },
+  {
+    "class": "sea",
+    "brightness": 0.44486284255981445,
+    "blue_ratio": 1.0038903951644897,
+    "green_ratio": 1.02509343624115,
+    "texture_strength": 0.15376563370227814
+  },
+  {
+    "class": "sea",
+    "brightness": 0.38274675607681274,
+    "blue_ratio": 1.1116654872894287,
+    "green_ratio": 0.9977803826332092,
+    "texture_strength": 0.12455519288778305
+  },
+  {
+    "class": "sea",
+    "brightness": 0.41842222213745117,
+    "blue_ratio": 0.8989925384521484,
+    "green_ratio": 1.0085790157318115,
+    "texture_strength": 0.058376774191856384
+  },
+  {
+    "class": "sea",
+    "brightness": 0.36452972888946533,
+    "blue_ratio": 1.187829613685608,
+    "green_ratio": 1.3740203380584717,
+    "texture_strength": 0.10340867936611176
+  },
+  {
+    "class": "sea",
+    "brightness": 0.37754926085472107,
+    "blue_ratio": 0.9685485363006592,
+    "green_ratio": 1.0117038488388062,
+    "texture_strength": 0.11299894750118256
+  },
+  {
+    "class": "sea",
+    "brightness": 0.30852195620536804,
+    "blue_ratio": 1.8530062437057495,
+    "green_ratio": 0.6009402871131897,
+    "texture_strength": 0.08510996401309967
+  },
+  {
+    "class": "sea",
+    "brightness": 0.7557581663131714,
+    "blue_ratio": 1.0356683731079102,
+    "green_ratio": 1.0044043064117432,
+    "texture_strength": 0.037638433277606964
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5065687894821167,
+    "blue_ratio": 0.9740049839019775,
+    "green_ratio": 1.0162936449050903,
+    "texture_strength": 0.12465342879295349
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3970581889152527,
+    "blue_ratio": 0.9794816970825195,
+    "green_ratio": 0.996430516242981,
+    "texture_strength": 0.11250259727239609
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5298011302947998,
+    "blue_ratio": 0.8293036222457886,
+    "green_ratio": 1.1397902965545654,
+    "texture_strength": 0.08815618604421616
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4771896004676819,
+    "blue_ratio": 1.054334282875061,
+    "green_ratio": 1.0754972696304321,
+    "texture_strength": 0.1055905669927597
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5640535950660706,
+    "blue_ratio": 0.9787561297416687,
+    "green_ratio": 1.015781044960022,
+    "texture_strength": 0.08713170886039734
+  },
+  {
+    "class": "sea",
+    "brightness": 0.43363523483276367,
+    "blue_ratio": 0.958089292049408,
+    "green_ratio": 1.0612480640411377,
+    "texture_strength": 0.1424282342195511
+  },
+  {
+    "class": "sea",
+    "brightness": 0.48026353120803833,
+    "blue_ratio": 1.0367751121520996,
+    "green_ratio": 1.0049445629119873,
+    "texture_strength": 0.09343552589416504
+  },
+  {
+    "class": "sea",
+    "brightness": 0.6644330024719238,
+    "blue_ratio": 1.1064213514328003,
+    "green_ratio": 0.9948068261146545,
+    "texture_strength": 0.08965951204299927
+  },
+  {
+    "class": "sea",
+    "brightness": 0.3489672839641571,
+    "blue_ratio": 1.131742238998413,
+    "green_ratio": 0.9315279126167297,
+    "texture_strength": 0.1146809309720993
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5569329261779785,
+    "blue_ratio": 1.0361483097076416,
+    "green_ratio": 0.9990109801292419,
+    "texture_strength": 0.07275780290365219
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4236765205860138,
+    "blue_ratio": 1.0352962017059326,
+    "green_ratio": 1.0243701934814453,
+    "texture_strength": 0.05028076097369194
+  },
+  {
+    "class": "sea",
+    "brightness": 0.7806267142295837,
+    "blue_ratio": 1.0052591562271118,
+    "green_ratio": 1.0019623041152954,
+    "texture_strength": 0.10324722528457642
+  },
+  {
+    "class": "sea",
+    "brightness": 0.42851945757865906,
+    "blue_ratio": 0.9814111590385437,
+    "green_ratio": 1.0095491409301758,
+    "texture_strength": 0.04531881958246231
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4693448841571808,
+    "blue_ratio": 1.1808910369873047,
+    "green_ratio": 1.0207940340042114,
+    "texture_strength": 0.09436631202697754
+  },
+  {
+    "class": "sea",
+    "brightness": 0.4685770273208618,
+    "blue_ratio": 0.9025143980979919,
+    "green_ratio": 1.0182719230651855,
+    "texture_strength": 0.0894140973687172
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5888930559158325,
+    "blue_ratio": 0.9711244106292725,
+    "green_ratio": 1.0054203271865845,
+    "texture_strength": 0.10388849675655365
+  },
+  {
+    "class": "sea",
+    "brightness": 0.41492798924446106,
+    "blue_ratio": 0.9676153063774109,
+    "green_ratio": 0.9966634511947632,
+    "texture_strength": 0.13348537683486938
+  },
+  {
+    "class": "sea",
+    "brightness": 0.7802571654319763,
+    "blue_ratio": 1.0407956838607788,
+    "green_ratio": 1.0064224004745483,
+    "texture_strength": 0.07274127006530762
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5951954126358032,
+    "blue_ratio": 1.1277580261230469,
+    "green_ratio": 0.979848325252533,
+    "texture_strength": 0.05772675201296806
+  },
+  {
+    "class": "sea",
+    "brightness": 0.45534300804138184,
+    "blue_ratio": 1.109391689300537,
+    "green_ratio": 1.101050615310669,
+    "texture_strength": 0.05511917918920517
+  },
+  {
+    "class": "sea",
+    "brightness": 0.5651552081108093,
+    "blue_ratio": 1.1013524532318115,
+    "green_ratio": 1.0208382606506348,
+    "texture_strength": 0.04874338582158089
+  },
+  {
+    "class": "street",
+    "brightness": 0.4100238084793091,
+    "blue_ratio": 0.8047136664390564,
+    "green_ratio": 1.000327706336975,
+    "texture_strength": 0.1669568419456482
+  },
+  {
+    "class": "street",
+    "brightness": 0.4643526077270508,
+    "blue_ratio": 0.9319515228271484,
+    "green_ratio": 1.0099380016326904,
+    "texture_strength": 0.17760011553764343
+  },
+  {
+    "class": "street",
+    "brightness": 0.4060068130493164,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.09795849025249481
+  },
+  {
+    "class": "street",
+    "brightness": 0.3252246677875519,
+    "blue_ratio": 0.8726086616516113,
+    "green_ratio": 0.9828618764877319,
+    "texture_strength": 0.13321076333522797
+  },
+  {
+    "class": "street",
+    "brightness": 0.4198593199253082,
+    "blue_ratio": 1.008111834526062,
+    "green_ratio": 1.0073297023773193,
+    "texture_strength": 0.148312509059906
+  },
+  {
+    "class": "street",
+    "brightness": 0.24644863605499268,
+    "blue_ratio": 1.0167527198791504,
+    "green_ratio": 1.0407377481460571,
+    "texture_strength": 0.08875240385532379
+  },
+  {
+    "class": "street",
+    "brightness": 0.36212852597236633,
+    "blue_ratio": 0.8472699522972107,
+    "green_ratio": 1.0354117155075073,
+    "texture_strength": 0.0758688673377037
+  },
+  {
+    "class": "street",
+    "brightness": 0.37301206588745117,
+    "blue_ratio": 0.9863844513893127,
+    "green_ratio": 1.0019028186798096,
+    "texture_strength": 0.13045765459537506
+  },
+  {
+    "class": "street",
+    "brightness": 0.43579962849617004,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1622033566236496
+  },
+  {
+    "class": "street",
+    "brightness": 0.36519989371299744,
+    "blue_ratio": 0.9613285064697266,
+    "green_ratio": 0.9930343627929688,
+    "texture_strength": 0.10097812116146088
+  },
+  {
+    "class": "street",
+    "brightness": 0.5163280367851257,
+    "blue_ratio": 0.9439391493797302,
+    "green_ratio": 0.9561012983322144,
+    "texture_strength": 0.07782608270645142
+  },
+  {
+    "class": "street",
+    "brightness": 0.2760496437549591,
+    "blue_ratio": 0.8485673069953918,
+    "green_ratio": 1.0211101770401,
+    "texture_strength": 0.10628988593816757
+  },
+  {
+    "class": "street",
+    "brightness": 0.38091617822647095,
+    "blue_ratio": 0.9286875128746033,
+    "green_ratio": 1.0180256366729736,
+    "texture_strength": 0.1282692700624466
+  },
+  {
+    "class": "street",
+    "brightness": 0.3703137934207916,
+    "blue_ratio": 1.0689985752105713,
+    "green_ratio": 0.9565331339836121,
+    "texture_strength": 0.1725185364484787
+  },
+  {
+    "class": "street",
+    "brightness": 0.34030619263648987,
+    "blue_ratio": 0.8254038095474243,
+    "green_ratio": 0.9768626689910889,
+    "texture_strength": 0.1204131618142128
+  },
+  {
+    "class": "street",
+    "brightness": 0.42284709215164185,
+    "blue_ratio": 1.0067873001098633,
+    "green_ratio": 0.9930277466773987,
+    "texture_strength": 0.11645916849374771
+  },
+  {
+    "class": "street",
+    "brightness": 0.17398418486118317,
+    "blue_ratio": 0.9787038564682007,
+    "green_ratio": 0.9999064803123474,
+    "texture_strength": 0.0690547525882721
+  },
+  {
+    "class": "street",
+    "brightness": 0.4410765767097473,
+    "blue_ratio": 1.2447805404663086,
+    "green_ratio": 0.971122682094574,
+    "texture_strength": 0.08999864012002945
+  },
+  {
+    "class": "street",
+    "brightness": 0.32971876859664917,
+    "blue_ratio": 0.7928808331489563,
+    "green_ratio": 1.02815842628479,
+    "texture_strength": 0.11072822660207748
+  },
+  {
+    "class": "street",
+    "brightness": 0.43440085649490356,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.15328063070774078
+  },
+  {
+    "class": "street",
+    "brightness": 0.3616839647293091,
+    "blue_ratio": 0.9471383094787598,
+    "green_ratio": 1.01845121383667,
+    "texture_strength": 0.13108983635902405
+  },
+  {
+    "class": "street",
+    "brightness": 0.5253865122795105,
+    "blue_ratio": 1.0100177526474,
+    "green_ratio": 1.004197359085083,
+    "texture_strength": 0.14444801211357117
+  },
+  {
+    "class": "street",
+    "brightness": 0.4692733883857727,
+    "blue_ratio": 0.9434013366699219,
+    "green_ratio": 1.0099406242370605,
+    "texture_strength": 0.1105528324842453
+  },
+  {
+    "class": "street",
+    "brightness": 0.5938071608543396,
+    "blue_ratio": 0.9541941285133362,
+    "green_ratio": 1.0041651725769043,
+    "texture_strength": 0.1284864991903305
+  },
+  {
+    "class": "street",
+    "brightness": 0.3115754723548889,
+    "blue_ratio": 0.9878459572792053,
+    "green_ratio": 0.8483369946479797,
+    "texture_strength": 0.052742116153240204
+  },
+  {
+    "class": "street",
+    "brightness": 0.49976256489753723,
+    "blue_ratio": 0.8857836723327637,
+    "green_ratio": 1.0094925165176392,
+    "texture_strength": 0.0913742333650589
+  },
+  {
+    "class": "street",
+    "brightness": 0.41455206274986267,
+    "blue_ratio": 0.9782666563987732,
+    "green_ratio": 0.9568204879760742,
+    "texture_strength": 0.11117789894342422
+  },
+  {
+    "class": "street",
+    "brightness": 0.4051920473575592,
+    "blue_ratio": 1.0094751119613647,
+    "green_ratio": 0.9817586541175842,
+    "texture_strength": 0.12174693495035172
+  },
+  {
+    "class": "street",
+    "brightness": 0.427101194858551,
+    "blue_ratio": 0.9897765517234802,
+    "green_ratio": 1.004963755607605,
+    "texture_strength": 0.223954439163208
+  },
+  {
+    "class": "street",
+    "brightness": 0.1935754418373108,
+    "blue_ratio": 0.7588668465614319,
+    "green_ratio": 0.9765281677246094,
+    "texture_strength": 0.1418008804321289
+  },
+  {
+    "class": "street",
+    "brightness": 0.5607683658599854,
+    "blue_ratio": 1.0659449100494385,
+    "green_ratio": 0.9612653851509094,
+    "texture_strength": 0.16624940931797028
+  },
+  {
+    "class": "street",
+    "brightness": 0.34016290307044983,
+    "blue_ratio": 1.0172241926193237,
+    "green_ratio": 0.9092317819595337,
+    "texture_strength": 0.13804596662521362
+  },
+  {
+    "class": "street",
+    "brightness": 0.4658908247947693,
+    "blue_ratio": 1.0268886089324951,
+    "green_ratio": 1.0056930780410767,
+    "texture_strength": 0.11510270833969116
+  },
+  {
+    "class": "street",
+    "brightness": 0.3629017770290375,
+    "blue_ratio": 1.276333212852478,
+    "green_ratio": 0.8869453072547913,
+    "texture_strength": 0.0662049949169159
+  },
+  {
+    "class": "street",
+    "brightness": 0.3404245674610138,
+    "blue_ratio": 0.917234480381012,
+    "green_ratio": 0.929333508014679,
+    "texture_strength": 0.15025125443935394
+  },
+  {
+    "class": "street",
+    "brightness": 0.47877541184425354,
+    "blue_ratio": 1.0712651014328003,
+    "green_ratio": 0.9759827256202698,
+    "texture_strength": 0.13402745127677917
+  },
+  {
+    "class": "street",
+    "brightness": 0.6511824131011963,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.13725976645946503
+  },
+  {
+    "class": "street",
+    "brightness": 0.3530586063861847,
+    "blue_ratio": 0.9788002967834473,
+    "green_ratio": 0.9887633323669434,
+    "texture_strength": 0.19976073503494263
+  },
+  {
+    "class": "street",
+    "brightness": 0.42274242639541626,
+    "blue_ratio": 0.9311758875846863,
+    "green_ratio": 1.0021696090698242,
+    "texture_strength": 0.1341373473405838
+  },
+  {
+    "class": "street",
+    "brightness": 0.5008524060249329,
+    "blue_ratio": 0.9471750259399414,
+    "green_ratio": 1.0264822244644165,
+    "texture_strength": 0.14501115679740906
+  },
+  {
+    "class": "street",
+    "brightness": 0.47214627265930176,
+    "blue_ratio": 0.962791383266449,
+    "green_ratio": 0.9692681431770325,
+    "texture_strength": 0.1973995566368103
+  },
+  {
+    "class": "street",
+    "brightness": 0.20136399567127228,
+    "blue_ratio": 0.9055790901184082,
+    "green_ratio": 0.8794142603874207,
+    "texture_strength": 0.07389900088310242
+  },
+  {
+    "class": "street",
+    "brightness": 0.5080604553222656,
+    "blue_ratio": 0.8751853704452515,
+    "green_ratio": 1.0450043678283691,
+    "texture_strength": 0.15154482424259186
+  },
+  {
+    "class": "street",
+    "brightness": 0.39470037817955017,
+    "blue_ratio": 0.9391722083091736,
+    "green_ratio": 0.9977110028266907,
+    "texture_strength": 0.16381236910820007
+  },
+  {
+    "class": "street",
+    "brightness": 0.30504366755485535,
+    "blue_ratio": 1.0238032341003418,
+    "green_ratio": 0.9947397112846375,
+    "texture_strength": 0.16102033853530884
+  },
+  {
+    "class": "street",
+    "brightness": 0.3681229054927826,
+    "blue_ratio": 0.9728086590766907,
+    "green_ratio": 0.9640413522720337,
+    "texture_strength": 0.11404839903116226
+  },
+  {
+    "class": "street",
+    "brightness": 0.4067647457122803,
+    "blue_ratio": 0.969025731086731,
+    "green_ratio": 1.039677619934082,
+    "texture_strength": 0.10661731660366058
+  },
+  {
+    "class": "street",
+    "brightness": 0.38108116388320923,
+    "blue_ratio": 0.8321272730827332,
+    "green_ratio": 1.0233381986618042,
+    "texture_strength": 0.07734009623527527
+  },
+  {
+    "class": "street",
+    "brightness": 0.32549434900283813,
+    "blue_ratio": 0.817345917224884,
+    "green_ratio": 0.968028724193573,
+    "texture_strength": 0.13260939717292786
+  },
+  {
+    "class": "street",
+    "brightness": 0.4919602572917938,
+    "blue_ratio": 1.0936188697814941,
+    "green_ratio": 1.0065979957580566,
+    "texture_strength": 0.08109762519598007
+  },
+  {
+    "class": "street",
+    "brightness": 0.3290524184703827,
+    "blue_ratio": 1.012206792831421,
+    "green_ratio": 1.0107083320617676,
+    "texture_strength": 0.14247490465641022
+  },
+  {
+    "class": "street",
+    "brightness": 0.14947150647640228,
+    "blue_ratio": 0.8012810945510864,
+    "green_ratio": 1.0998718738555908,
+    "texture_strength": 0.08264797180891037
+  },
+  {
+    "class": "street",
+    "brightness": 0.5117130279541016,
+    "blue_ratio": 0.9764609932899475,
+    "green_ratio": 1.0072500705718994,
+    "texture_strength": 0.10194587707519531
+  },
+  {
+    "class": "street",
+    "brightness": 0.4279922544956207,
+    "blue_ratio": 1.053579568862915,
+    "green_ratio": 1.0150787830352783,
+    "texture_strength": 0.12063296884298325
+  },
+  {
+    "class": "street",
+    "brightness": 0.21881446242332458,
+    "blue_ratio": 0.4891197085380554,
+    "green_ratio": 1.0518521070480347,
+    "texture_strength": 0.09416822344064713
+  },
+  {
+    "class": "street",
+    "brightness": 0.3748885989189148,
+    "blue_ratio": 0.9982157349586487,
+    "green_ratio": 0.9807422161102295,
+    "texture_strength": 0.09705039858818054
+  },
+  {
+    "class": "street",
+    "brightness": 0.6253554821014404,
+    "blue_ratio": 1.0696029663085938,
+    "green_ratio": 0.9714756011962891,
+    "texture_strength": 0.16784872114658356
+  },
+  {
+    "class": "street",
+    "brightness": 0.7078437805175781,
+    "blue_ratio": 0.9707184433937073,
+    "green_ratio": 1.000928282737732,
+    "texture_strength": 0.11756860464811325
+  },
+  {
+    "class": "street",
+    "brightness": 0.40329861640930176,
+    "blue_ratio": 1.029234528541565,
+    "green_ratio": 0.9222496747970581,
+    "texture_strength": 0.10201654583215714
+  },
+  {
+    "class": "street",
+    "brightness": 0.3932390809059143,
+    "blue_ratio": 0.9358841180801392,
+    "green_ratio": 1.0026334524154663,
+    "texture_strength": 0.12302268296480179
+  },
+  {
+    "class": "street",
+    "brightness": 0.45260289311408997,
+    "blue_ratio": 0.8550970554351807,
+    "green_ratio": 0.985013484954834,
+    "texture_strength": 0.16380524635314941
+  },
+  {
+    "class": "street",
+    "brightness": 0.453508585691452,
+    "blue_ratio": 0.9555023908615112,
+    "green_ratio": 0.9930656552314758,
+    "texture_strength": 0.10123229771852493
+  },
+  {
+    "class": "street",
+    "brightness": 0.40061020851135254,
+    "blue_ratio": 0.970300018787384,
+    "green_ratio": 1.0026257038116455,
+    "texture_strength": 0.14472423493862152
+  },
+  {
+    "class": "street",
+    "brightness": 0.2232702672481537,
+    "blue_ratio": 0.963236391544342,
+    "green_ratio": 1.0148570537567139,
+    "texture_strength": 0.06808117032051086
+  },
+  {
+    "class": "street",
+    "brightness": 0.4511670768260956,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.0999494194984436
+  },
+  {
+    "class": "street",
+    "brightness": 0.4616239666938782,
+    "blue_ratio": 0.9118399024009705,
+    "green_ratio": 1.009783148765564,
+    "texture_strength": 0.11844979226589203
+  },
+  {
+    "class": "street",
+    "brightness": 0.45917361974716187,
+    "blue_ratio": 1.0719527006149292,
+    "green_ratio": 0.9902821779251099,
+    "texture_strength": 0.13932137191295624
+  },
+  {
+    "class": "street",
+    "brightness": 0.5275176763534546,
+    "blue_ratio": 0.9743844866752625,
+    "green_ratio": 1.0177580118179321,
+    "texture_strength": 0.1400456428527832
+  },
+  {
+    "class": "street",
+    "brightness": 0.5446240901947021,
+    "blue_ratio": 1.0212639570236206,
+    "green_ratio": 0.9927273988723755,
+    "texture_strength": 0.10266300290822983
+  },
+  {
+    "class": "street",
+    "brightness": 0.3174881339073181,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1453937143087387
+  },
+  {
+    "class": "street",
+    "brightness": 0.3950559198856354,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.1116100549697876
+  },
+  {
+    "class": "street",
+    "brightness": 0.40530598163604736,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.13266807794570923
+  },
+  {
+    "class": "street",
+    "brightness": 0.5154449939727783,
+    "blue_ratio": 0.9666476249694824,
+    "green_ratio": 1.0035737752914429,
+    "texture_strength": 0.12476170808076859
+  },
+  {
+    "class": "street",
+    "brightness": 0.41665422916412354,
+    "blue_ratio": 1.001132845878601,
+    "green_ratio": 1.004228115081787,
+    "texture_strength": 0.09912010282278061
+  },
+  {
+    "class": "street",
+    "brightness": 0.32689568400382996,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.11907582730054855
+  },
+  {
+    "class": "street",
+    "brightness": 0.4291612505912781,
+    "blue_ratio": 0.9362848401069641,
+    "green_ratio": 1.023111343383789,
+    "texture_strength": 0.12891994416713715
+  },
+  {
+    "class": "street",
+    "brightness": 0.3487563133239746,
+    "blue_ratio": 1.0077744722366333,
+    "green_ratio": 0.9785405993461609,
+    "texture_strength": 0.12360462546348572
+  },
+  {
+    "class": "street",
+    "brightness": 0.32384249567985535,
+    "blue_ratio": 0.9992106556892395,
+    "green_ratio": 0.9832785129547119,
+    "texture_strength": 0.12947304546833038
+  },
+  {
+    "class": "street",
+    "brightness": 0.27651751041412354,
+    "blue_ratio": 0.48993998765945435,
+    "green_ratio": 1.0363516807556152,
+    "texture_strength": 0.11639174073934555
+  },
+  {
+    "class": "street",
+    "brightness": 0.36126431822776794,
+    "blue_ratio": 1.025607705116272,
+    "green_ratio": 0.9858153462409973,
+    "texture_strength": 0.10963338613510132
+  },
+  {
+    "class": "street",
+    "brightness": 0.5673684477806091,
+    "blue_ratio": 1.0070604085922241,
+    "green_ratio": 1.0140886306762695,
+    "texture_strength": 0.1370791792869568
+  },
+  {
+    "class": "street",
+    "brightness": 0.48013046383857727,
+    "blue_ratio": 0.9479315280914307,
+    "green_ratio": 1.0361073017120361,
+    "texture_strength": 0.15187907218933105
+  },
+  {
+    "class": "street",
+    "brightness": 0.40444719791412354,
+    "blue_ratio": 1.0,
+    "green_ratio": 1.0,
+    "texture_strength": 0.14309543371200562
+  },
+  {
+    "class": "street",
+    "brightness": 0.45772823691368103,
+    "blue_ratio": 0.9832457900047302,
+    "green_ratio": 1.0310256481170654,
+    "texture_strength": 0.11066534370183945
+  },
+  {
+    "class": "street",
+    "brightness": 0.4977925419807434,
+    "blue_ratio": 0.9971970915794373,
+    "green_ratio": 1.0154300928115845,
+    "texture_strength": 0.10815340280532837
+  },
+  {
+    "class": "street",
+    "brightness": 0.37235403060913086,
+    "blue_ratio": 1.0291672945022583,
+    "green_ratio": 0.9884979128837585,
+    "texture_strength": 0.14140179753303528
+  },
+  {
+    "class": "street",
+    "brightness": 0.5500494837760925,
+    "blue_ratio": 1.0697863101959229,
+    "green_ratio": 0.9933828115463257,
+    "texture_strength": 0.12703178822994232
+  },
+  {
+    "class": "street",
+    "brightness": 0.5713305473327637,
+    "blue_ratio": 0.810182511806488,
+    "green_ratio": 1.0132715702056885,
+    "texture_strength": 0.09699949622154236
+  },
+  {
+    "class": "street",
+    "brightness": 0.42331624031066895,
+    "blue_ratio": 0.9792549014091492,
+    "green_ratio": 0.9883220791816711,
+    "texture_strength": 0.12627607583999634
+  },
+  {
+    "class": "street",
+    "brightness": 0.5565755367279053,
+    "blue_ratio": 0.9805464148521423,
+    "green_ratio": 1.0419588088989258,
+    "texture_strength": 0.044146496802568436
+  },
+  {
+    "class": "street",
+    "brightness": 0.3042987883090973,
+    "blue_ratio": 0.7160499095916748,
+    "green_ratio": 0.9764940142631531,
+    "texture_strength": 0.16225004196166992
+  },
+  {
+    "class": "street",
+    "brightness": 0.3995496928691864,
+    "blue_ratio": 1.01092529296875,
+    "green_ratio": 1.0081192255020142,
+    "texture_strength": 0.09733892977237701
+  },
+  {
+    "class": "street",
+    "brightness": 0.5175711512565613,
+    "blue_ratio": 0.9960197806358337,
+    "green_ratio": 0.9840865731239319,
+    "texture_strength": 0.08189451694488525
+  },
+  {
+    "class": "street",
+    "brightness": 0.5255804657936096,
+    "blue_ratio": 0.9460427165031433,
+    "green_ratio": 1.0098872184753418,
+    "texture_strength": 0.13538199663162231
+  },
+  {
+    "class": "street",
+    "brightness": 0.3997386395931244,
+    "blue_ratio": 0.8517983555793762,
+    "green_ratio": 1.1405397653579712,
+    "texture_strength": 0.1554044783115387
+  },
+  {
+    "class": "street",
+    "brightness": 0.4235798120498657,
+    "blue_ratio": 1.0001499652862549,
+    "green_ratio": 1.0915019512176514,
+    "texture_strength": 0.11731409281492233
+  },
+  {
+    "class": "street",
+    "brightness": 0.3572160303592682,
+    "blue_ratio": 0.9138526916503906,
+    "green_ratio": 1.000964879989624,
+    "texture_strength": 0.10670355707406998
+  },
+  {
+    "class": "street",
+    "brightness": 0.41027209162712097,
+    "blue_ratio": 0.9553510546684265,
+    "green_ratio": 0.9926818013191223,
+    "texture_strength": 0.10643446445465088
+  },
+  {
+    "class": "street",
+    "brightness": 0.4285992383956909,
+    "blue_ratio": 1.0520048141479492,
+    "green_ratio": 0.9946871995925903,
+    "texture_strength": 0.1328120231628418
+  },
+  {
+    "class": "street",
+    "brightness": 0.49218782782554626,
+    "blue_ratio": 0.9949709177017212,
+    "green_ratio": 1.0057902336120605,
+    "texture_strength": 0.1805134117603302
+  }
+]

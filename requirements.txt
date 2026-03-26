@@ -1,0 +1,12 @@
+numpy
+Pillow
+scikit-learn
+joblib
+fastapi
+uvicorn
+python-multipart
+streamlit
+matplotlib
+pandas
+requests
+locust
