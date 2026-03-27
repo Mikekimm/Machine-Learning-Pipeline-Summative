@@ -1,7 +1,7 @@
 # Machine Learning Pipeline Summative
 
-Repository URL: https://github.com/Mikekimm/Machine-Learning-Pipeline-Summative.git
-Live Deployment URL: https://machine-learning-pipeline-summative.onrender.com
+Repository URL: [https://github.com/Mikekimm/Machine-Learning-Pipeline-Summative.git](https://github.com/Mikekimm/Machine-Learning-Pipeline-Summative.git)
+Live Deployment URL: [https://machine-learning-pipeline-summative.onrender.com](https://machine-learning-pipeline-summative.onrender.com)
 Video Demo URL: REPLACE_WITH_YOUTUBE_LINK
 
 ## Project Description
@@ -150,9 +150,9 @@ You can deploy on Render, Railway, Azure App Service, or AWS ECS.
 - Expose /predict and /retrain endpoints
 
 ## Deployment Proof
-- Public URL: https://machine-learning-pipeline-summative.onrender.com
-- Health check URL: https://machine-learning-pipeline-summative.onrender.com/health
-- Metrics URL: https://machine-learning-pipeline-summative.onrender.com/metrics
+- Public URL: [https://machine-learning-pipeline-summative.onrender.com](https://machine-learning-pipeline-summative.onrender.com)
+- Health check URL: [https://machine-learning-pipeline-summative.onrender.com/health](https://machine-learning-pipeline-summative.onrender.com/health)
+- Metrics URL: [https://machine-learning-pipeline-summative.onrender.com/metrics](https://machine-learning-pipeline-summative.onrender.com/metrics)
 
 ## Submission Checklist
 - Zip file of this repository
