@@ -9,14 +9,6 @@ This project implements an end-to-end image classification pipeline using scene 
 It includes offline training, evaluation, retraining trigger, API endpoints, a UI dashboard,
 Docker setup, and flood request simulation with Locust.
 
-## Rubric Coverage Summary
-- Data acquisition: image dataset loaded from Intel scene folders.
-- Data processing: resize, normalize, feature extraction for interpretation.
-- Model creation: optimized Logistic Regression with regularization and tuned iterations.
-- Model testing: evaluation with Accuracy, Precision, Recall, F1-score and confusion matrix.
-- Retraining: upload data, preprocess uploaded data, retrain pipeline using saved workflow.
-- API + UI: prediction, retraining trigger, uptime and visualization support.
-
 ## Directory Structure
 
 Project_name/
@@ -154,17 +146,3 @@ You can deploy on Render, Railway, Azure App Service, or AWS ECS.
 - Health check URL: [https://machine-learning-pipeline-summative.onrender.com/health](https://machine-learning-pipeline-summative.onrender.com/health)
 - Metrics URL: [https://machine-learning-pipeline-summative.onrender.com/metrics](https://machine-learning-pipeline-summative.onrender.com/metrics)
 
-## Submission Checklist
-- Zip file of this repository
-- GitHub repository URL
-- Video demo link (YouTube)
-- Deployed URL where applicable
-- Flood request simulation results
-
-## Final File Confirmation
-- README.md
-- notebook/project_name.ipynb
-- src/preprocessing.py
-- src/model.py
-- src/prediction.py
-- models/scene_classifier.pkl
