@@ -2,17 +2,17 @@
 
 Links:
 
-Github Repo:
+Github Repo:  https://github.com/Mikekimm/Machine-Learning-Pipeline-Summative.git
 
-Video Demo Link:
+Video Demo Link: 
 
-Live App (Render): 
+Live App (Render): https://machine-learning-pipeline-summative.onrender.com
 
-API Docs:
+API Docs:  https://machine-learning-pipeline-summative.onrender.com/docs
 
-Health Check:
+Health Check: https://machine-learning-pipeline-summative.onrender.com/health
 
-Metrics Endpoint:
+Metrics Endpoint:  https://machine-learning-pipeline-summative.onrender.com/metrics
 
 
 Project Summary
