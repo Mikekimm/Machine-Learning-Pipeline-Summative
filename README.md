@@ -6,13 +6,17 @@ Github Repo:
 
 Video Demo Link:
 
+Live App (Render): 
+
+API Docs:
+
+Health Check:
+
+Metrics Endpoint:
 
 
-
-## Project Description
-This project implements an end-to-end image classification pipeline using scene images.
-It includes offline training, evaluation, retraining trigger, API endpoints, a UI dashboard,
-Docker setup, and flood request simulation with Locust.
+Project Summary
+This project adopts an image classification end-to-end pipeline based on images of scenes. It consists of offline training, evaluation, retraining trigger, API endpoints, a UI dashboard, Docker configuration, and flood request simulation with Locust.
 
 ## Directory Structure
 
@@ -44,6 +48,7 @@ Project_name/
 
 ## Setup Steps
 1. Create and activate a Python environment.
+
 2. Install dependencies:
 
    pip install -r requirements.txt
@@ -60,22 +65,15 @@ Project_name/
 
    streamlit run src/dashboard.py
 
-## API Endpoints
-- GET /health: model uptime and status
-- GET /metrics: training metrics
-- POST /predict: predict one uploaded image
-- POST /upload-bulk: upload multiple images for retraining data
-- POST /retrain: trigger model retraining
+Evaluation Results 
 
-## Retraining Pipeline Detail
-1. Upload data via `POST /upload-bulk` or dashboard bulk upload.
-2. Uploaded files are saved in `data/uploads/`.
-3. Retraining trigger runs via `POST /retrain` and executes `src/retrain.py`.
-4. Preprocessing runs on training data through `src/preprocessing.py`.
-5. Retraining uses the same baseline workflow and regenerates:
-   - `models/scene_classifier.pkl`
-   - `results/metrics.json`
-   - `results/feature_story.json`
+The documentation of evaluation of the model is found in projectname.ipynb and metrics.json.
+Main test metrics:
+- Accuracy: 0.4853
+- Precision (weighted): 0.4842
+- Recall (weighted): 0.4853
+- F1-score (weighted): 0.4831
+
 
 ## Visualizations and Feature Story
 The dashboard reports and visualizes at least 3 interpretable features:
@@ -87,6 +85,15 @@ Story example:
 - sea and glacier typically show stronger blue signal,
 - forest tends to show stronger green signal,
 - street and mountain tend to have stronger texture patterns.
+
+## Prediction and Retraining Flow
+
+- User uploads an image and gets a class prediction.
+- User uploads bulk images for future retraining.
+- Uploaded files are stored in the data uploads area.
+- User presses retrain trigger to rebuild the model.
+- New model and metrics are regenerated and served by the API.
+
 
 ## Flood Request Simulation (Locust)
 1. Start API.
@@ -107,10 +114,11 @@ For this local benchmark, scaling levels were represented by API worker count (1
 | 2 workers | 25s | 40 | 11 | 30 | 25.80 | 0.00% |
 | 3 workers | 25s | 40 | 10 | 29 | 25.61 | 0.00% |
 
-Interpretation:
-- 2 and 3 workers improved p95 latency compared with 1 worker.
-- Throughput stayed in a similar range because client-side load profile was fixed.
-- Failure rate stayed at 0% after fixing concurrent prediction file naming.
+Results Summary 
+- Increasing workers improved tail latency.
+- Throughput remained stable for this test profile.
+- Failure rate stayed at 0% after concurrency fixes.
+
 
 ## Docker and Scaling
 Build and run with Docker Compose:
