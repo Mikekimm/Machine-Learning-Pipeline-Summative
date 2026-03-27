@@ -1,8 +1,13 @@
 # Machine Learning Pipeline Summative
 
-Repository URL: [https://github.com/Mikekimm/Machine-Learning-Pipeline-Summative.git](https://github.com/Mikekimm/Machine-Learning-Pipeline-Summative.git)
-Live Deployment URL: [https://machine-learning-pipeline-summative.onrender.com](https://machine-learning-pipeline-summative.onrender.com)
-Video Demo URL: REPLACE_WITH_YOUTUBE_LINK
+Links:
+
+Github Repo:
+
+Video Demo Link:
+
+
+
 
 ## Project Description
 This project implements an end-to-end image classification pipeline using scene images.
