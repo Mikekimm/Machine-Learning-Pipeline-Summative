@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "buildings",
+    "forest",
+    "glacier",
+    "mountain",
+    "sea",
+    "street"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "architecture": "EfficientNetB0"
+}

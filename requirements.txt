@@ -2,6 +2,8 @@ numpy
 Pillow
 scikit-learn
 joblib
+tensorflow; python_version < "3.13"
+keras; python_version < "3.13"
 fastapi
 uvicorn
 python-multipart

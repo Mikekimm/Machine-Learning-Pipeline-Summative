@@ -1,7 +1,9 @@
 .venv/
+.venv312/
 __pycache__/
 *.pyc
 .DS_Store
 archive (14)/
 data/uploads/*
 !data/uploads/.gitkeep
+models/scene_classifier_best.keras

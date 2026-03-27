@@ -9,10 +9,10 @@ from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
 
 try:
-    from src.prediction import predict_image
+    from src.prediction import predict_image, predict_images
     from src.retrain import trigger_retraining
 except ModuleNotFoundError:
-    from prediction import predict_image
+    from prediction import predict_image, predict_images
     from retrain import trigger_retraining
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -52,6 +52,30 @@ async def predict(file: UploadFile = File(...)) -> JSONResponse:
         return JSONResponse({"error": str(exc)}, status_code=400)
 
     return JSONResponse(result)
+
+
+@app.post("/predict-bulk")
+async def predict_bulk(files: list[UploadFile] = File(...)) -> JSONResponse:
+    saved_paths = []
+    original_names = []
+
+    for item in files:
+        safe_name = f"{uuid4().hex}_{item.filename}"
+        target = UPLOAD_DIR / safe_name
+        target.write_bytes(await item.read())
+        saved_paths.append(target)
+        original_names.append(item.filename)
+
+    try:
+        preds = predict_images(PROJECT_ROOT, saved_paths)
+    except FileNotFoundError as exc:
+        return JSONResponse({"error": str(exc)}, status_code=400)
+
+    results = []
+    for filename, pred in zip(original_names, preds):
+        results.append({"filename": filename, "prediction": pred})
+
+    return JSONResponse({"count": len(results), "results": results})
 
 
 @app.post("/upload-bulk")

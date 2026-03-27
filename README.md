@@ -53,11 +53,14 @@ Project_name/
 
    pip install -r requirements.txt
 
-3. Train the model:
+3. Train the high-accuracy EfficientNet model (Python 3.12 environment):
 
+   python3.12 -m venv .venv312
+   source .venv312/bin/activate
+   pip install -r requirements.txt
    python src/model.py
 
-4. Start the API:
+4. Start the API (default environment is fine):
 
    uvicorn src.api:app --host 0.0.0.0 --port 8000
 
@@ -65,14 +68,17 @@ Project_name/
 
    streamlit run src/dashboard.py
 
+Note:
+- If TensorFlow is not available in the active environment, prediction and retraining automatically fall back to the `.venv312` runner when it exists.
+
 Evaluation Results 
 
 The documentation of evaluation of the model is found in projectname.ipynb and metrics.json.
 Main test metrics:
-- Accuracy: 0.4853
-- Precision (weighted): 0.4842
-- Recall (weighted): 0.4853
-- F1-score (weighted): 0.4831
+- Accuracy: 0.9123
+- Precision (weighted): 0.9141
+- Recall (weighted): 0.9123
+- F1-score (weighted): 0.9118
 
 
 ## Visualizations and Feature Story
@@ -145,6 +151,10 @@ Notebook path: notebook/project_name.ipynb
 
 ## Model File
 Model artifact is saved to:
+- models/scene_classifier.keras
+- models/scene_classifier_meta.json
+
+Backward-compatible baseline artifact:
 - models/scene_classifier.pkl
 
 ## Deployment Guidance

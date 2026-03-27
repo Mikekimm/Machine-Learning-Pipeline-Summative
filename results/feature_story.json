@@ -51,7 +51,7 @@
   {
     "class": "buildings",
     "brightness": 0.4708859920501709,
-    "blue_ratio": 0.9614928960800171,
+    "blue_ratio": 0.9614928364753723,
     "green_ratio": 1.0090376138687134,
     "texture_strength": 0.13971269130706787
   },
@@ -79,7 +79,7 @@
   {
     "class": "buildings",
     "brightness": 0.5436440110206604,
-    "blue_ratio": 0.8728177547454834,
+    "blue_ratio": 0.8728176951408386,
     "green_ratio": 1.006638765335083,
     "texture_strength": 0.13924680650234222
   },
@@ -100,7 +100,7 @@
   {
     "class": "buildings",
     "brightness": 0.20195217430591583,
-    "blue_ratio": 0.9174911975860596,
+    "blue_ratio": 0.9174911379814148,
     "green_ratio": 1.0173749923706055,
     "texture_strength": 0.11247017234563828
   },
@@ -163,7 +163,7 @@
   {
     "class": "buildings",
     "brightness": 0.1677839756011963,
-    "blue_ratio": 0.3476693034172058,
+    "blue_ratio": 0.3476692736148834,
     "green_ratio": 0.9132081866264343,
     "texture_strength": 0.07482557743787766
   },
@@ -178,14 +178,14 @@
     "class": "buildings",
     "brightness": 0.5042684674263,
     "blue_ratio": 0.9072765111923218,
-    "green_ratio": 0.9910474419593811,
+    "green_ratio": 0.9910473823547363,
     "texture_strength": 0.14449825882911682
   },
   {
     "class": "buildings",
     "brightness": 0.4220336079597473,
     "blue_ratio": 1.1493500471115112,
-    "green_ratio": 1.0094743967056274,
+    "green_ratio": 1.009474277496338,
     "texture_strength": 0.1144033819437027
   },
   {
@@ -213,7 +213,7 @@
     "class": "buildings",
     "brightness": 0.26105013489723206,
     "blue_ratio": 1.0037531852722168,
-    "green_ratio": 1.0065112113952637,
+    "green_ratio": 1.0065110921859741,
     "texture_strength": 0.1002596840262413
   },
   {
@@ -233,15 +233,15 @@
   {
     "class": "buildings",
     "brightness": 0.5316080451011658,
-    "blue_ratio": 0.8622324466705322,
+    "blue_ratio": 0.8622323870658875,
     "green_ratio": 1.0918588638305664,
     "texture_strength": 0.10500148683786392
   },
   {
     "class": "buildings",
     "brightness": 0.43865305185317993,
-    "blue_ratio": 1.0343996286392212,
-    "green_ratio": 0.989618718624115,
+    "blue_ratio": 1.0343995094299316,
+    "green_ratio": 0.9896186590194702,
     "texture_strength": 0.08766210079193115
   },
   {
@@ -268,7 +268,7 @@
   {
     "class": "buildings",
     "brightness": 0.3297988772392273,
-    "blue_ratio": 1.0238677263259888,
+    "blue_ratio": 1.0238676071166992,
     "green_ratio": 1.0087835788726807,
     "texture_strength": 0.13909606635570526
   },
@@ -283,7 +283,7 @@
     "class": "buildings",
     "brightness": 0.5387095212936401,
     "blue_ratio": 1.0007530450820923,
-    "green_ratio": 0.9995338320732117,
+    "green_ratio": 0.9995337724685669,
     "texture_strength": 0.1300378143787384
   },
   {
@@ -331,15 +331,15 @@
   {
     "class": "buildings",
     "brightness": 0.4532316029071808,
-    "blue_ratio": 1.0749436616897583,
-    "green_ratio": 0.9998683333396912,
+    "blue_ratio": 1.0749435424804688,
+    "green_ratio": 0.9998682737350464,
     "texture_strength": 0.13576161861419678
   },
   {
     "class": "buildings",
     "brightness": 0.45465269684791565,
     "blue_ratio": 1.1216641664505005,
-    "green_ratio": 0.9927799105644226,
+    "green_ratio": 0.9927798509597778,
     "texture_strength": 0.10566870123147964
   },
   {
@@ -359,7 +359,7 @@
   {
     "class": "buildings",
     "brightness": 0.22464671730995178,
-    "blue_ratio": 0.9871334433555603,
+    "blue_ratio": 0.9871333837509155,
     "green_ratio": 0.9999445676803589,
     "texture_strength": 0.0918031558394432
   },
@@ -401,8 +401,8 @@
   {
     "class": "buildings",
     "brightness": 0.5810920000076294,
-    "blue_ratio": 0.9851731657981873,
-    "green_ratio": 1.0020496845245361,
+    "blue_ratio": 0.9851731061935425,
+    "green_ratio": 1.0020495653152466,
     "texture_strength": 0.16319280862808228
   },
   {
@@ -464,7 +464,7 @@
   {
     "class": "buildings",
     "brightness": 0.40356793999671936,
-    "blue_ratio": 1.047272801399231,
+    "blue_ratio": 1.0472726821899414,
     "green_ratio": 1.0001740455627441,
     "texture_strength": 0.12037815153598785
   },
@@ -472,7 +472,7 @@
     "class": "buildings",
     "brightness": 0.4683277904987335,
     "blue_ratio": 1.0562270879745483,
-    "green_ratio": 1.1982382535934448,
+    "green_ratio": 1.1982381343841553,
     "texture_strength": 0.07756348699331284
   },
   {
@@ -506,7 +506,7 @@
   {
     "class": "buildings",
     "brightness": 0.4645695984363556,
-    "blue_ratio": 0.9383891820907593,
+    "blue_ratio": 0.9383891224861145,
     "green_ratio": 1.0360658168792725,
     "texture_strength": 0.12266573309898376
   },
@@ -555,15 +555,15 @@
   {
     "class": "buildings",
     "brightness": 0.2950192093849182,
-    "blue_ratio": 0.7609454989433289,
-    "green_ratio": 1.040479302406311,
+    "blue_ratio": 0.7609454393386841,
+    "green_ratio": 1.0404791831970215,
     "texture_strength": 0.1783386468887329
   },
   {
     "class": "buildings",
     "brightness": 0.5447939038276672,
     "blue_ratio": 1.0933483839035034,
-    "green_ratio": 1.0185627937316895,
+    "green_ratio": 1.0185626745224,
     "texture_strength": 0.06994567066431046
   },
   {
@@ -604,14 +604,14 @@
   {
     "class": "buildings",
     "brightness": 0.24515707790851593,
-    "blue_ratio": 0.9686533808708191,
+    "blue_ratio": 0.9686533212661743,
     "green_ratio": 1.0193012952804565,
     "texture_strength": 0.07607214152812958
   },
   {
     "class": "buildings",
     "brightness": 0.5111739635467529,
-    "blue_ratio": 1.1746171712875366,
+    "blue_ratio": 1.174617052078247,
     "green_ratio": 0.9739694595336914,
     "texture_strength": 0.08094200491905212
   },
@@ -632,14 +632,14 @@
   {
     "class": "buildings",
     "brightness": 0.4605660140514374,
-    "blue_ratio": 0.9883630275726318,
+    "blue_ratio": 0.9883629679679871,
     "green_ratio": 1.0193201303482056,
     "texture_strength": 0.09586769342422485
   },
   {
     "class": "buildings",
     "brightness": 0.36024561524391174,
-    "blue_ratio": 0.9273224472999573,
+    "blue_ratio": 0.9273223876953125,
     "green_ratio": 1.0257678031921387,
     "texture_strength": 0.1672528237104416
   },
@@ -653,14 +653,14 @@
   {
     "class": "buildings",
     "brightness": 0.5464329719543457,
-    "blue_ratio": 0.993598997592926,
+    "blue_ratio": 0.9935989379882812,
     "green_ratio": 0.9817318916320801,
     "texture_strength": 0.1767425835132599
   },
   {
     "class": "buildings",
     "brightness": 0.5373305082321167,
-    "blue_ratio": 0.9437718391418457,
+    "blue_ratio": 0.9437717795372009,
     "green_ratio": 1.0358141660690308,
     "texture_strength": 0.1339399218559265
   },
@@ -674,14 +674,14 @@
   {
     "class": "buildings",
     "brightness": 0.38948696851730347,
-    "blue_ratio": 1.006269931793213,
+    "blue_ratio": 1.0062698125839233,
     "green_ratio": 1.0019779205322266,
     "texture_strength": 0.04696318507194519
   },
   {
     "class": "buildings",
     "brightness": 0.4256705045700073,
-    "blue_ratio": 1.0819013118743896,
+    "blue_ratio": 1.0819011926651,
     "green_ratio": 1.0491889715194702,
     "texture_strength": 0.15132664144039154
   },
@@ -695,7 +695,7 @@
   {
     "class": "buildings",
     "brightness": 0.39715203642845154,
-    "blue_ratio": 0.9510427117347717,
+    "blue_ratio": 0.951042652130127,
     "green_ratio": 1.0145115852355957,
     "texture_strength": 0.12440703809261322
   },
@@ -716,7 +716,7 @@
   {
     "class": "forest",
     "brightness": 0.34765562415122986,
-    "blue_ratio": 0.7689207792282104,
+    "blue_ratio": 0.7689207196235657,
     "green_ratio": 1.1710915565490723,
     "texture_strength": 0.23789425194263458
   },
@@ -765,7 +765,7 @@
   {
     "class": "forest",
     "brightness": 0.3769703507423401,
-    "blue_ratio": 0.8431673049926758,
+    "blue_ratio": 0.843167245388031,
     "green_ratio": 1.0316429138183594,
     "texture_strength": 0.16930502653121948
   },
@@ -773,7 +773,7 @@
     "class": "forest",
     "brightness": 0.2198248654603958,
     "blue_ratio": 0.5866961479187012,
-    "green_ratio": 0.8541799783706665,
+    "green_ratio": 0.8541799187660217,
     "texture_strength": 0.16094738245010376
   },
   {
@@ -786,7 +786,7 @@
   {
     "class": "forest",
     "brightness": 0.2490192949771881,
-    "blue_ratio": 0.8613253831863403,
+    "blue_ratio": 0.8613253235816956,
     "green_ratio": 1.051870584487915,
     "texture_strength": 0.03669597581028938
   },
@@ -829,7 +829,7 @@
     "class": "forest",
     "brightness": 0.2727169096469879,
     "blue_ratio": 0.9817469120025635,
-    "green_ratio": 1.0140554904937744,
+    "green_ratio": 1.0140553712844849,
     "texture_strength": 0.13516345620155334
   },
   {
@@ -856,7 +856,7 @@
   {
     "class": "forest",
     "brightness": 0.2916124165058136,
-    "blue_ratio": 0.3843611478805542,
+    "blue_ratio": 0.3843611180782318,
     "green_ratio": 1.6724321842193604,
     "texture_strength": 0.10525372624397278
   },
@@ -877,7 +877,7 @@
   {
     "class": "forest",
     "brightness": 0.17273826897144318,
-    "blue_ratio": 0.9879910945892334,
+    "blue_ratio": 0.9879910349845886,
     "green_ratio": 1.0054501295089722,
     "texture_strength": 0.16608957946300507
   },
@@ -898,7 +898,7 @@
   {
     "class": "forest",
     "brightness": 0.38314759731292725,
-    "blue_ratio": 0.7859641909599304,
+    "blue_ratio": 0.7859641313552856,
     "green_ratio": 1.0448986291885376,
     "texture_strength": 0.2222633808851242
   },
@@ -913,7 +913,7 @@
     "class": "forest",
     "brightness": 0.28431692719459534,
     "blue_ratio": 0.5859106779098511,
-    "green_ratio": 1.464827299118042,
+    "green_ratio": 1.4648271799087524,
     "texture_strength": 0.14589622616767883
   },
   {
@@ -927,7 +927,7 @@
     "class": "forest",
     "brightness": 0.3011377453804016,
     "blue_ratio": 0.5628737211227417,
-    "green_ratio": 1.3211487531661987,
+    "green_ratio": 1.3211486339569092,
     "texture_strength": 0.1637604981660843
   },
   {
@@ -941,13 +941,13 @@
     "class": "forest",
     "brightness": 0.24888364970684052,
     "blue_ratio": 0.8466882705688477,
-    "green_ratio": 1.1011064052581787,
+    "green_ratio": 1.1011062860488892,
     "texture_strength": 0.12379331141710281
   },
   {
     "class": "forest",
     "brightness": 0.339788556098938,
-    "blue_ratio": 0.4921015799045563,
+    "blue_ratio": 0.4921015501022339,
     "green_ratio": 1.4167840480804443,
     "texture_strength": 0.10928162187337875
   },
@@ -975,8 +975,8 @@
   {
     "class": "forest",
     "brightness": 0.16804948449134827,
-    "blue_ratio": 0.7072581052780151,
-    "green_ratio": 1.0857412815093994,
+    "blue_ratio": 0.7072580456733704,
+    "green_ratio": 1.0857411623001099,
     "texture_strength": 0.07643978297710419
   },
   {
@@ -1004,7 +1004,7 @@
     "class": "forest",
     "brightness": 0.28624388575553894,
     "blue_ratio": 0.48422950506210327,
-    "green_ratio": 1.243548035621643,
+    "green_ratio": 1.2435479164123535,
     "texture_strength": 0.15118464827537537
   },
   {
@@ -1024,7 +1024,7 @@
   {
     "class": "forest",
     "brightness": 0.22052696347236633,
-    "blue_ratio": 0.7620953917503357,
+    "blue_ratio": 0.7620953321456909,
     "green_ratio": 1.1576045751571655,
     "texture_strength": 0.11703170835971832
   },
@@ -1059,7 +1059,7 @@
   {
     "class": "forest",
     "brightness": 0.2376774400472641,
-    "blue_ratio": 0.7063866257667542,
+    "blue_ratio": 0.7063865661621094,
     "green_ratio": 1.4100621938705444,
     "texture_strength": 0.15350204706192017
   },
@@ -1095,13 +1095,13 @@
     "class": "forest",
     "brightness": 0.21674133837223053,
     "blue_ratio": 0.8009382486343384,
-    "green_ratio": 1.444421410560608,
+    "green_ratio": 1.4444212913513184,
     "texture_strength": 0.11870396137237549
   },
   {
     "class": "forest",
     "brightness": 0.3126981854438782,
-    "blue_ratio": 0.9833745360374451,
+    "blue_ratio": 0.9833744764328003,
     "green_ratio": 0.9984905123710632,
     "texture_strength": 0.18874040246009827
   },
@@ -1116,7 +1116,7 @@
     "class": "forest",
     "brightness": 0.2785271108150482,
     "blue_ratio": 0.8928865790367126,
-    "green_ratio": 1.0532869100570679,
+    "green_ratio": 1.0532867908477783,
     "texture_strength": 0.1474728286266327
   },
   {
@@ -1157,7 +1157,7 @@
   {
     "class": "forest",
     "brightness": 0.21136993169784546,
-    "blue_ratio": 0.8073680996894836,
+    "blue_ratio": 0.8073680400848389,
     "green_ratio": 1.16132652759552,
     "texture_strength": 0.11947555840015411
   },
@@ -1171,7 +1171,7 @@
   {
     "class": "forest",
     "brightness": 0.5365282297134399,
-    "blue_ratio": 0.9617750644683838,
+    "blue_ratio": 0.961775004863739,
     "green_ratio": 1.0410212278366089,
     "texture_strength": 0.1256464570760727
   },
@@ -1179,7 +1179,7 @@
     "class": "forest",
     "brightness": 0.24372096359729767,
     "blue_ratio": 0.39010193943977356,
-    "green_ratio": 1.1627556085586548,
+    "green_ratio": 1.1627554893493652,
     "texture_strength": 0.0954420194029808
   },
   {
@@ -1207,7 +1207,7 @@
     "class": "forest",
     "brightness": 0.18710394203662872,
     "blue_ratio": 0.652302086353302,
-    "green_ratio": 1.3141934871673584,
+    "green_ratio": 1.3141933679580688,
     "texture_strength": 0.12208637595176697
   },
   {
@@ -1221,7 +1221,7 @@
     "class": "forest",
     "brightness": 0.3126107454299927,
     "blue_ratio": 0.7923325896263123,
-    "green_ratio": 1.3528448343276978,
+    "green_ratio": 1.3528447151184082,
     "texture_strength": 0.1397220939397812
   },
   {
@@ -1270,7 +1270,7 @@
     "class": "forest",
     "brightness": 0.14213548600673676,
     "blue_ratio": 0.7060598134994507,
-    "green_ratio": 1.1440433263778687,
+    "green_ratio": 1.144043207168579,
     "texture_strength": 0.09033937752246857
   },
   {
@@ -1291,7 +1291,7 @@
     "class": "forest",
     "brightness": 0.2114178091287613,
     "blue_ratio": 0.836353600025177,
-    "green_ratio": 1.2362645864486694,
+    "green_ratio": 1.2362644672393799,
     "texture_strength": 0.11380361020565033
   },
   {
@@ -1311,7 +1311,7 @@
   {
     "class": "forest",
     "brightness": 0.414310485124588,
-    "blue_ratio": 0.818366289138794,
+    "blue_ratio": 0.8183662295341492,
     "green_ratio": 1.193569302558899,
     "texture_strength": 0.10805647075176239
   },
@@ -1326,7 +1326,7 @@
     "class": "forest",
     "brightness": 0.2675864100456238,
     "blue_ratio": 0.8641352653503418,
-    "green_ratio": 1.1743196249008179,
+    "green_ratio": 1.1743195056915283,
     "texture_strength": 0.18999798595905304
   },
   {
@@ -1347,13 +1347,13 @@
     "class": "forest",
     "brightness": 0.31569042801856995,
     "blue_ratio": 0.9701141119003296,
-    "green_ratio": 1.0161606073379517,
+    "green_ratio": 1.016160488128662,
     "texture_strength": 0.09037373960018158
   },
   {
     "class": "forest",
     "brightness": 0.3279472589492798,
-    "blue_ratio": 0.8766478896141052,
+    "blue_ratio": 0.8766478300094604,
     "green_ratio": 1.107836365699768,
     "texture_strength": 0.1579160839319229
   },
@@ -1388,7 +1388,7 @@
   {
     "class": "forest",
     "brightness": 0.19522027671337128,
-    "blue_ratio": 0.49141833186149597,
+    "blue_ratio": 0.4914183020591736,
     "green_ratio": 1.5844000577926636,
     "texture_strength": 0.12342534959316254
   },
@@ -1417,7 +1417,7 @@
     "class": "glacier",
     "brightness": 0.5508795380592346,
     "blue_ratio": 1.0778948068618774,
-    "green_ratio": 0.989139974117279,
+    "green_ratio": 0.9891399145126343,
     "texture_strength": 0.1428169459104538
   },
   {
@@ -1437,7 +1437,7 @@
   {
     "class": "glacier",
     "brightness": 0.5725429654121399,
-    "blue_ratio": 1.1098299026489258,
+    "blue_ratio": 1.1098297834396362,
     "green_ratio": 1.0174734592437744,
     "texture_strength": 0.15142682194709778
   },
@@ -1549,7 +1549,7 @@
   {
     "class": "glacier",
     "brightness": 0.5370627641677856,
-    "blue_ratio": 1.175818681716919,
+    "blue_ratio": 1.1758185625076294,
     "green_ratio": 1.0016894340515137,
     "texture_strength": 0.19237928092479706
   },
@@ -1571,14 +1571,14 @@
     "class": "glacier",
     "brightness": 0.4153754413127899,
     "blue_ratio": 0.9400316476821899,
-    "green_ratio": 0.9800753593444824,
+    "green_ratio": 0.9800752997398376,
     "texture_strength": 0.17799174785614014
   },
   {
     "class": "glacier",
     "brightness": 0.5859004855155945,
     "blue_ratio": 1.0972360372543335,
-    "green_ratio": 0.9900103211402893,
+    "green_ratio": 0.9900102615356445,
     "texture_strength": 0.13489016890525818
   },
   {
@@ -1620,7 +1620,7 @@
     "class": "glacier",
     "brightness": 0.40378785133361816,
     "blue_ratio": 1.2181932926177979,
-    "green_ratio": 0.9956933259963989,
+    "green_ratio": 0.9956932663917542,
     "texture_strength": 0.07309562712907791
   },
   {
@@ -1633,7 +1633,7 @@
   {
     "class": "glacier",
     "brightness": 0.5844187140464783,
-    "blue_ratio": 1.0619585514068604,
+    "blue_ratio": 1.0619584321975708,
     "green_ratio": 0.9812001585960388,
     "texture_strength": 0.08720076084136963
   },
@@ -1675,7 +1675,7 @@
   {
     "class": "glacier",
     "brightness": 0.26924052834510803,
-    "blue_ratio": 0.8951364755630493,
+    "blue_ratio": 0.8951364159584045,
     "green_ratio": 1.2226494550704956,
     "texture_strength": 0.08432605117559433
   },
@@ -1759,7 +1759,7 @@
   {
     "class": "glacier",
     "brightness": 0.5447903871536255,
-    "blue_ratio": 1.1701818704605103,
+    "blue_ratio": 1.1701817512512207,
     "green_ratio": 0.9872506260871887,
     "texture_strength": 0.10777861624956131
   },
@@ -1773,7 +1773,7 @@
   {
     "class": "glacier",
     "brightness": 0.6599331498146057,
-    "blue_ratio": 1.0245341062545776,
+    "blue_ratio": 1.024533987045288,
     "green_ratio": 0.999431312084198,
     "texture_strength": 0.08593928068876266
   },
@@ -1808,7 +1808,7 @@
   {
     "class": "glacier",
     "brightness": 0.6380144357681274,
-    "blue_ratio": 1.1487600803375244,
+    "blue_ratio": 1.1487599611282349,
     "green_ratio": 1.0260201692581177,
     "texture_strength": 0.0913943350315094
   },
@@ -1872,7 +1872,7 @@
     "class": "glacier",
     "brightness": 0.6810716390609741,
     "blue_ratio": 1.058846354484558,
-    "green_ratio": 1.0157546997070312,
+    "green_ratio": 1.0157545804977417,
     "texture_strength": 0.0807928740978241
   },
   {
@@ -1907,7 +1907,7 @@
     "class": "glacier",
     "brightness": 0.803501546382904,
     "blue_ratio": 1.0227808952331543,
-    "green_ratio": 1.0140266418457031,
+    "green_ratio": 1.0140265226364136,
     "texture_strength": 0.05410604178905487
   },
   {
@@ -1927,7 +1927,7 @@
   {
     "class": "glacier",
     "brightness": 0.4262934625148773,
-    "blue_ratio": 1.1778913736343384,
+    "blue_ratio": 1.1778912544250488,
     "green_ratio": 1.0156404972076416,
     "texture_strength": 0.0681651383638382
   },
@@ -2011,7 +2011,7 @@
   {
     "class": "glacier",
     "brightness": 0.48850494623184204,
-    "blue_ratio": 1.0840445756912231,
+    "blue_ratio": 1.0840444564819336,
     "green_ratio": 1.0183922052383423,
     "texture_strength": 0.08077342063188553
   },
@@ -2032,7 +2032,7 @@
   {
     "class": "glacier",
     "brightness": 0.43907430768013,
-    "blue_ratio": 1.121893048286438,
+    "blue_ratio": 1.1218929290771484,
     "green_ratio": 1.0241115093231201,
     "texture_strength": 0.040838003158569336
   },
@@ -2040,7 +2040,7 @@
     "class": "glacier",
     "brightness": 0.5107874870300293,
     "blue_ratio": 1.0310617685317993,
-    "green_ratio": 0.9956864714622498,
+    "green_ratio": 0.995686411857605,
     "texture_strength": 0.10925634205341339
   },
   {
@@ -2060,7 +2060,7 @@
   {
     "class": "glacier",
     "brightness": 0.6431379318237305,
-    "blue_ratio": 1.0241302251815796,
+    "blue_ratio": 1.02413010597229,
     "green_ratio": 0.9962088465690613,
     "texture_strength": 0.11696979403495789
   },
@@ -2095,14 +2095,14 @@
   {
     "class": "glacier",
     "brightness": 0.6114113926887512,
-    "blue_ratio": 0.9938914179801941,
+    "blue_ratio": 0.9938913583755493,
     "green_ratio": 0.9967350959777832,
     "texture_strength": 0.05490811914205551
   },
   {
     "class": "mountain",
     "brightness": 0.40188801288604736,
-    "blue_ratio": 0.9858706593513489,
+    "blue_ratio": 0.9858705997467041,
     "green_ratio": 1.0153181552886963,
     "texture_strength": 0.061760496348142624
   },
@@ -2193,7 +2193,7 @@
   {
     "class": "mountain",
     "brightness": 0.4683954417705536,
-    "blue_ratio": 1.0243594646453857,
+    "blue_ratio": 1.0243593454360962,
     "green_ratio": 0.9845723509788513,
     "texture_strength": 0.04970270395278931
   },
@@ -2263,7 +2263,7 @@
   {
     "class": "mountain",
     "brightness": 0.48482656478881836,
-    "blue_ratio": 0.9915250539779663,
+    "blue_ratio": 0.9915249943733215,
     "green_ratio": 1.0144203901290894,
     "texture_strength": 0.034567251801490784
   },
@@ -2284,7 +2284,7 @@
   {
     "class": "mountain",
     "brightness": 0.4241144061088562,
-    "blue_ratio": 0.901428759098053,
+    "blue_ratio": 0.9014286994934082,
     "green_ratio": 1.0433541536331177,
     "texture_strength": 0.11142526566982269
   },
@@ -2347,14 +2347,14 @@
   {
     "class": "mountain",
     "brightness": 0.28465011715888977,
-    "blue_ratio": 1.0848358869552612,
-    "green_ratio": 0.9913513660430908,
+    "blue_ratio": 1.0848357677459717,
+    "green_ratio": 0.991351306438446,
     "texture_strength": 0.06639109551906586
   },
   {
     "class": "mountain",
     "brightness": 0.48900729417800903,
-    "blue_ratio": 0.9676787853240967,
+    "blue_ratio": 0.9676787257194519,
     "green_ratio": 1.0579777956008911,
     "texture_strength": 0.07852701097726822
   },
@@ -2410,7 +2410,7 @@
   {
     "class": "mountain",
     "brightness": 0.28196901082992554,
-    "blue_ratio": 1.2434544563293457,
+    "blue_ratio": 1.2434543371200562,
     "green_ratio": 1.0619059801101685,
     "texture_strength": 0.05528095364570618
   },
@@ -2487,7 +2487,7 @@
   {
     "class": "mountain",
     "brightness": 0.5614274144172668,
-    "blue_ratio": 1.0220776796340942,
+    "blue_ratio": 1.0220775604248047,
     "green_ratio": 0.993518590927124,
     "texture_strength": 0.09880368411540985
   },
@@ -2537,7 +2537,7 @@
     "class": "mountain",
     "brightness": 0.33329442143440247,
     "blue_ratio": 1.2452683448791504,
-    "green_ratio": 0.9979997277259827,
+    "green_ratio": 0.9979996681213379,
     "texture_strength": 0.040809474885463715
   },
   {
@@ -2557,7 +2557,7 @@
   {
     "class": "mountain",
     "brightness": 0.639448344707489,
-    "blue_ratio": 0.9846082925796509,
+    "blue_ratio": 0.9846082329750061,
     "green_ratio": 1.044862151145935,
     "texture_strength": 0.09529353678226471
   },
@@ -2641,8 +2641,8 @@
   {
     "class": "mountain",
     "brightness": 0.48947417736053467,
-    "blue_ratio": 0.9667890071868896,
-    "green_ratio": 1.0274858474731445,
+    "blue_ratio": 0.9667889475822449,
+    "green_ratio": 1.027485728263855,
     "texture_strength": 0.1203126534819603
   },
   {
@@ -2663,7 +2663,7 @@
     "class": "mountain",
     "brightness": 0.4782682955265045,
     "blue_ratio": 1.3156540393829346,
-    "green_ratio": 0.9959129691123962,
+    "green_ratio": 0.9959129095077515,
     "texture_strength": 0.026247859001159668
   },
   {
@@ -2683,7 +2683,7 @@
   {
     "class": "mountain",
     "brightness": 0.6046638488769531,
-    "blue_ratio": 0.9676557779312134,
+    "blue_ratio": 0.9676557183265686,
     "green_ratio": 1.0301676988601685,
     "texture_strength": 0.07256749272346497
   },
@@ -2740,7 +2740,7 @@
     "class": "mountain",
     "brightness": 0.5086853504180908,
     "blue_ratio": 1.0326744318008423,
-    "green_ratio": 1.0021312236785889,
+    "green_ratio": 1.0021311044692993,
     "texture_strength": 0.07951389253139496
   },
   {
@@ -2760,7 +2760,7 @@
   {
     "class": "mountain",
     "brightness": 0.4263748526573181,
-    "blue_ratio": 0.9615417718887329,
+    "blue_ratio": 0.9615417122840881,
     "green_ratio": 1.03782057762146,
     "texture_strength": 0.07733070850372314
   },
@@ -2782,7 +2782,7 @@
     "class": "mountain",
     "brightness": 0.48759764432907104,
     "blue_ratio": 1.0021775960922241,
-    "green_ratio": 0.9950185418128967,
+    "green_ratio": 0.995018482208252,
     "texture_strength": 0.08519425988197327
   },
   {
@@ -2852,7 +2852,7 @@
     "class": "sea",
     "brightness": 0.48447680473327637,
     "blue_ratio": 1.1087347269058228,
-    "green_ratio": 0.996335506439209,
+    "green_ratio": 0.9963354468345642,
     "texture_strength": 0.10061274468898773
   },
   {
@@ -2865,7 +2865,7 @@
   {
     "class": "sea",
     "brightness": 0.3297960162162781,
-    "blue_ratio": 1.453458309173584,
+    "blue_ratio": 1.4534581899642944,
     "green_ratio": 0.9746611714363098,
     "texture_strength": 0.02722889743745327
   },
@@ -2879,7 +2879,7 @@
   {
     "class": "sea",
     "brightness": 0.5912920236587524,
-    "blue_ratio": 1.0550384521484375,
+    "blue_ratio": 1.055038332939148,
     "green_ratio": 1.0458769798278809,
     "texture_strength": 0.08615293353796005
   },
@@ -2908,7 +2908,7 @@
     "class": "sea",
     "brightness": 0.48590782284736633,
     "blue_ratio": 1.1337717771530151,
-    "green_ratio": 0.982241153717041,
+    "green_ratio": 0.9822410941123962,
     "texture_strength": 0.06945287436246872
   },
   {
@@ -2943,7 +2943,7 @@
     "class": "sea",
     "brightness": 0.5404673218727112,
     "blue_ratio": 1.0585159063339233,
-    "green_ratio": 0.9948108792304993,
+    "green_ratio": 0.9948108196258545,
     "texture_strength": 0.06900806725025177
   },
   {
@@ -2992,7 +2992,7 @@
     "class": "sea",
     "brightness": 0.11895105987787247,
     "blue_ratio": 1.0709099769592285,
-    "green_ratio": 0.9985511302947998,
+    "green_ratio": 0.9985511898994446,
     "texture_strength": 0.04729030281305313
   },
   {
@@ -3089,7 +3089,7 @@
   {
     "class": "sea",
     "brightness": 0.5619329214096069,
-    "blue_ratio": 0.9188900589942932,
+    "blue_ratio": 0.9188899993896484,
     "green_ratio": 1.0129902362823486,
     "texture_strength": 0.1170203685760498
   },
@@ -3223,7 +3223,7 @@
     "class": "sea",
     "brightness": 0.34182143211364746,
     "blue_ratio": 1.0103532075881958,
-    "green_ratio": 1.0221142768859863,
+    "green_ratio": 1.0221141576766968,
     "texture_strength": 0.0558246448636055
   },
   {
@@ -3272,7 +3272,7 @@
     "class": "sea",
     "brightness": 0.2512960135936737,
     "blue_ratio": 0.7516411542892456,
-    "green_ratio": 0.9783039093017578,
+    "green_ratio": 0.978303849697113,
     "texture_strength": 0.06005615368485451
   },
   {
@@ -3363,7 +3363,7 @@
     "class": "sea",
     "brightness": 0.3970581889152527,
     "blue_ratio": 0.9794816970825195,
-    "green_ratio": 0.996430516242981,
+    "green_ratio": 0.9964304566383362,
     "texture_strength": 0.11250259727239609
   },
   {
@@ -3383,7 +3383,7 @@
   {
     "class": "sea",
     "brightness": 0.5640535950660706,
-    "blue_ratio": 0.9787561297416687,
+    "blue_ratio": 0.9787560701370239,
     "green_ratio": 1.015781044960022,
     "texture_strength": 0.08713170886039734
   },
@@ -3432,7 +3432,7 @@
   {
     "class": "sea",
     "brightness": 0.7806267142295837,
-    "blue_ratio": 1.0052591562271118,
+    "blue_ratio": 1.0052590370178223,
     "green_ratio": 1.0019623041152954,
     "texture_strength": 0.10324722528457642
   },
@@ -3509,7 +3509,7 @@
   {
     "class": "street",
     "brightness": 0.4643526077270508,
-    "blue_ratio": 0.9319515228271484,
+    "blue_ratio": 0.9319514632225037,
     "green_ratio": 1.0099380016326904,
     "texture_strength": 0.17760011553764343
   },
@@ -3523,7 +3523,7 @@
   {
     "class": "street",
     "brightness": 0.3252246677875519,
-    "blue_ratio": 0.8726086616516113,
+    "blue_ratio": 0.8726086020469666,
     "green_ratio": 0.9828618764877319,
     "texture_strength": 0.13321076333522797
   },
@@ -3572,14 +3572,14 @@
   {
     "class": "street",
     "brightness": 0.5163280367851257,
-    "blue_ratio": 0.9439391493797302,
+    "blue_ratio": 0.9439390897750854,
     "green_ratio": 0.9561012983322144,
     "texture_strength": 0.07782608270645142
   },
   {
     "class": "street",
     "brightness": 0.2760496437549591,
-    "blue_ratio": 0.8485673069953918,
+    "blue_ratio": 0.8485672473907471,
     "green_ratio": 1.0211101770401,
     "texture_strength": 0.10628988593816757
   },
@@ -3608,14 +3608,14 @@
     "class": "street",
     "brightness": 0.42284709215164185,
     "blue_ratio": 1.0067873001098633,
-    "green_ratio": 0.9930277466773987,
+    "green_ratio": 0.9930276870727539,
     "texture_strength": 0.11645916849374771
   },
   {
     "class": "street",
     "brightness": 0.17398418486118317,
     "blue_ratio": 0.9787038564682007,
-    "green_ratio": 0.9999064803123474,
+    "green_ratio": 0.9999064207077026,
     "texture_strength": 0.0690547525882721
   },
   {
@@ -3642,7 +3642,7 @@
   {
     "class": "street",
     "brightness": 0.3616839647293091,
-    "blue_ratio": 0.9471383094787598,
+    "blue_ratio": 0.947138249874115,
     "green_ratio": 1.01845121383667,
     "texture_strength": 0.13108983635902405
   },
@@ -3705,8 +3705,8 @@
   {
     "class": "street",
     "brightness": 0.1935754418373108,
-    "blue_ratio": 0.7588668465614319,
-    "green_ratio": 0.9765281677246094,
+    "blue_ratio": 0.7588667869567871,
+    "green_ratio": 0.9765281081199646,
     "texture_strength": 0.1418008804321289
   },
   {
@@ -3741,7 +3741,7 @@
     "class": "street",
     "brightness": 0.3404245674610138,
     "blue_ratio": 0.917234480381012,
-    "green_ratio": 0.929333508014679,
+    "green_ratio": 0.9293334484100342,
     "texture_strength": 0.15025125443935394
   },
   {
@@ -3782,14 +3782,14 @@
   {
     "class": "street",
     "brightness": 0.47214627265930176,
-    "blue_ratio": 0.962791383266449,
+    "blue_ratio": 0.9627913236618042,
     "green_ratio": 0.9692681431770325,
     "texture_strength": 0.1973995566368103
   },
   {
     "class": "street",
     "brightness": 0.20136399567127228,
-    "blue_ratio": 0.9055790901184082,
+    "blue_ratio": 0.9055790305137634,
     "green_ratio": 0.8794142603874207,
     "texture_strength": 0.07389900088310242
   },
@@ -3811,14 +3811,14 @@
     "class": "street",
     "brightness": 0.30504366755485535,
     "blue_ratio": 1.0238032341003418,
-    "green_ratio": 0.9947397112846375,
+    "green_ratio": 0.9947396516799927,
     "texture_strength": 0.16102033853530884
   },
   {
     "class": "street",
     "brightness": 0.3681229054927826,
-    "blue_ratio": 0.9728086590766907,
-    "green_ratio": 0.9640413522720337,
+    "blue_ratio": 0.9728085994720459,
+    "green_ratio": 0.9640412926673889,
     "texture_strength": 0.11404839903116226
   },
   {
@@ -3838,7 +3838,7 @@
   {
     "class": "street",
     "brightness": 0.32549434900283813,
-    "blue_ratio": 0.817345917224884,
+    "blue_ratio": 0.8173458576202393,
     "green_ratio": 0.968028724193573,
     "texture_strength": 0.13260939717292786
   },
@@ -3859,14 +3859,14 @@
   {
     "class": "street",
     "brightness": 0.14947150647640228,
-    "blue_ratio": 0.8012810945510864,
+    "blue_ratio": 0.8012810349464417,
     "green_ratio": 1.0998718738555908,
     "texture_strength": 0.08264797180891037
   },
   {
     "class": "street",
     "brightness": 0.5117130279541016,
-    "blue_ratio": 0.9764609932899475,
+    "blue_ratio": 0.9764609336853027,
     "green_ratio": 1.0072500705718994,
     "texture_strength": 0.10194587707519531
   },
@@ -3880,7 +3880,7 @@
   {
     "class": "street",
     "brightness": 0.21881446242332458,
-    "blue_ratio": 0.4891197085380554,
+    "blue_ratio": 0.48911967873573303,
     "green_ratio": 1.0518521070480347,
     "texture_strength": 0.09416822344064713
   },
@@ -3888,7 +3888,7 @@
     "class": "street",
     "brightness": 0.3748885989189148,
     "blue_ratio": 0.9982157349586487,
-    "green_ratio": 0.9807422161102295,
+    "green_ratio": 0.9807421565055847,
     "texture_strength": 0.09705039858818054
   },
   {
@@ -3922,8 +3922,8 @@
   {
     "class": "street",
     "brightness": 0.45260289311408997,
-    "blue_ratio": 0.8550970554351807,
-    "green_ratio": 0.985013484954834,
+    "blue_ratio": 0.8550969958305359,
+    "green_ratio": 0.9850134253501892,
     "texture_strength": 0.16380524635314941
   },
   {
@@ -3943,8 +3943,8 @@
   {
     "class": "street",
     "brightness": 0.2232702672481537,
-    "blue_ratio": 0.963236391544342,
-    "green_ratio": 1.0148570537567139,
+    "blue_ratio": 0.9632363319396973,
+    "green_ratio": 1.0148569345474243,
     "texture_strength": 0.06808117032051086
   },
   {
@@ -3965,7 +3965,7 @@
     "class": "street",
     "brightness": 0.45917361974716187,
     "blue_ratio": 1.0719527006149292,
-    "green_ratio": 0.9902821779251099,
+    "green_ratio": 0.9902821183204651,
     "texture_strength": 0.13932137191295624
   },
   {
@@ -4006,7 +4006,7 @@
   {
     "class": "street",
     "brightness": 0.5154449939727783,
-    "blue_ratio": 0.9666476249694824,
+    "blue_ratio": 0.9666475653648376,
     "green_ratio": 1.0035737752914429,
     "texture_strength": 0.12476170808076859
   },
@@ -4041,8 +4041,8 @@
   {
     "class": "street",
     "brightness": 0.32384249567985535,
-    "blue_ratio": 0.9992106556892395,
-    "green_ratio": 0.9832785129547119,
+    "blue_ratio": 0.9992105960845947,
+    "green_ratio": 0.9832784533500671,
     "texture_strength": 0.12947304546833038
   },
   {
@@ -4062,14 +4062,14 @@
   {
     "class": "street",
     "brightness": 0.5673684477806091,
-    "blue_ratio": 1.0070604085922241,
+    "blue_ratio": 1.0070602893829346,
     "green_ratio": 1.0140886306762695,
     "texture_strength": 0.1370791792869568
   },
   {
     "class": "street",
     "brightness": 0.48013046383857727,
-    "blue_ratio": 0.9479315280914307,
+    "blue_ratio": 0.9479314684867859,
     "green_ratio": 1.0361073017120361,
     "texture_strength": 0.15187907218933105
   },
@@ -4083,14 +4083,14 @@
   {
     "class": "street",
     "brightness": 0.45772823691368103,
-    "blue_ratio": 0.9832457900047302,
+    "blue_ratio": 0.9832457304000854,
     "green_ratio": 1.0310256481170654,
     "texture_strength": 0.11066534370183945
   },
   {
     "class": "street",
     "brightness": 0.4977925419807434,
-    "blue_ratio": 0.9971970915794373,
+    "blue_ratio": 0.9971970319747925,
     "green_ratio": 1.0154300928115845,
     "texture_strength": 0.10815340280532837
   },
@@ -4112,7 +4112,7 @@
     "class": "street",
     "brightness": 0.5713305473327637,
     "blue_ratio": 0.810182511806488,
-    "green_ratio": 1.0132715702056885,
+    "green_ratio": 1.013271450996399,
     "texture_strength": 0.09699949622154236
   },
   {
@@ -4132,7 +4132,7 @@
   {
     "class": "street",
     "brightness": 0.3042987883090973,
-    "blue_ratio": 0.7160499095916748,
+    "blue_ratio": 0.71604984998703,
     "green_ratio": 0.9764940142631531,
     "texture_strength": 0.16225004196166992
   },
@@ -4153,7 +4153,7 @@
   {
     "class": "street",
     "brightness": 0.5255804657936096,
-    "blue_ratio": 0.9460427165031433,
+    "blue_ratio": 0.9460426568984985,
     "green_ratio": 1.0098872184753418,
     "texture_strength": 0.13538199663162231
   },
@@ -4161,7 +4161,7 @@
     "class": "street",
     "brightness": 0.3997386395931244,
     "blue_ratio": 0.8517983555793762,
-    "green_ratio": 1.1405397653579712,
+    "green_ratio": 1.1405396461486816,
     "texture_strength": 0.1554044783115387
   },
   {
@@ -4174,7 +4174,7 @@
   {
     "class": "street",
     "brightness": 0.3572160303592682,
-    "blue_ratio": 0.9138526916503906,
+    "blue_ratio": 0.9138526320457458,
     "green_ratio": 1.000964879989624,
     "texture_strength": 0.10670355707406998
   },
