@@ -9,10 +9,36 @@ import requests
 import streamlit as st
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-API_URL = st.sidebar.text_input("API URL", "https://machine-learning-pipeline-summative.onrender.com")
+API_URL = st.sidebar.text_input("API URL", "http://127.0.0.1:8000").rstrip("/")
+
+
+def _safe_json(resp: requests.Response) -> dict:
+    try:
+        return resp.json()
+    except Exception:
+        return {"status_code": resp.status_code, "text": resp.text[:500]}
+
+
+def _backend_routes(base_url: str) -> set[str]:
+    try:
+        resp = requests.get(f"{base_url}/openapi.json", timeout=15)
+        data = _safe_json(resp)
+        paths = data.get("paths", {}) if isinstance(data, dict) else {}
+        return set(paths.keys())
+    except Exception:
+        return set()
 
 st.set_page_config(page_title="ML Pipeline Dashboard", layout="wide")
 st.title("Machine Learning Pipeline Dashboard")
+
+routes = _backend_routes(API_URL)
+if routes:
+    supports_bulk_predict = "/predict-bulk" in routes
+else:
+    supports_bulk_predict = True
+
+if routes and not supports_bulk_predict:
+    st.warning("Connected API does not expose /predict-bulk. Bulk prediction will use a safe single-file fallback.")
 
 
 col1, col2 = st.columns(2)
@@ -38,7 +64,7 @@ if st.button("Predict") and predict_file is not None:
     try:
         files = {"file": (predict_file.name, predict_file.getvalue(), predict_file.type)}
         response = requests.post(f"{API_URL}/predict", files=files, timeout=90)
-        st.json(response.json())
+        st.json(_safe_json(response))
     except Exception as exc:
         st.error(str(exc))
 
@@ -52,8 +78,35 @@ bulk_predict_files = st.file_uploader(
 if st.button("Predict Bulk") and bulk_predict_files:
     try:
         files = [("files", (f.name, f.getvalue(), f.type)) for f in bulk_predict_files]
-        response = requests.post(f"{API_URL}/predict-bulk", files=files, timeout=180)
-        st.json(response.json())
+
+        if supports_bulk_predict:
+            response = requests.post(f"{API_URL}/predict-bulk", files=files, timeout=180)
+            if response.status_code == 200:
+                st.json(_safe_json(response))
+            elif response.status_code == 404:
+                supports_bulk_predict = False
+            else:
+                st.error(f"Bulk prediction failed: HTTP {response.status_code}")
+                st.json(_safe_json(response))
+
+        if not supports_bulk_predict:
+            fallback_results = []
+            for f in bulk_predict_files:
+                single_file = {"file": (f.name, f.getvalue(), f.type)}
+                single_resp = requests.post(f"{API_URL}/predict", files=single_file, timeout=90)
+                payload = _safe_json(single_resp)
+                if single_resp.status_code == 200:
+                    fallback_results.append({"filename": f.name, "prediction": payload})
+                else:
+                    fallback_results.append(
+                        {
+                            "filename": f.name,
+                            "error": f"HTTP {single_resp.status_code}",
+                            "detail": payload,
+                        }
+                    )
+
+            st.json({"count": len(fallback_results), "results": fallback_results, "mode": "fallback_single_predict"})
     except Exception as exc:
         st.error(str(exc))
 
@@ -93,6 +146,19 @@ if metrics_path.exists():
     st.pyplot(fig)
 else:
     st.info("Train the model first to populate metrics.")
+
+st.subheader("Connected Backend")
+st.write(f"Current API URL: {API_URL}")
+try:
+    health_resp = requests.get(f"{API_URL}/health", timeout=20)
+    st.write(f"Health check status: {health_resp.status_code}")
+    metrics_resp = requests.get(f"{API_URL}/metrics", timeout=20)
+    if metrics_resp.status_code == 200:
+        live_metrics = _safe_json(metrics_resp)
+        if isinstance(live_metrics, dict) and "accuracy" in live_metrics:
+            st.write(f"Live backend accuracy: {live_metrics['accuracy']:.4f}")
+except Exception as exc:
+    st.info(f"Could not read backend health/metrics: {exc}")
 
 st.subheader("Feature Story (3+ Features)")
 st.write("Features tracked: brightness, blue_ratio, green_ratio, texture_strength.")
